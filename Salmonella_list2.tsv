@@ -1,0 +1,1001 @@
+Assembly Name	Assembly Accession	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Isolate	Organism Infraspecific Names Ecotype	Annotation Name	Assembly Stats Total Sequence Length	Assembly Level	Assembly Submission Date
+ASM165238v2	GCF_001652385.2	Salmonella enterica		CFSAN033950				From INSDC submitter	4930422	Complete Genome	2021-06-07
+ASM183155v2	GCF_001831555.2	Salmonella enterica		CFSAN044865				From INSDC submitter	5084052	Complete Genome	2021-06-07
+ASM183171v2	GCF_001831715.2	Salmonella enterica		CFSAN044875				From INSDC submitter	5004869	Complete Genome	2021-06-07
+ASM183191v2	GCF_001831915.2	Salmonella enterica		CFSAN044885				From INSDC submitter	4879725	Complete Genome	2021-06-07
+ASM183198v2	GCF_001831985.2	Salmonella enterica		CFSAN044888				From INSDC submitter	4892473	Complete Genome	2021-06-10
+ASM183330v2	GCF_001833305.2	Salmonella enterica		CFSAN044925				From INSDC submitter	4754349	Complete Genome	2021-06-07
+ASM183496v2	GCF_001834965.2	Salmonella enterica		CFSAN044945				From INSDC submitter	5008883	Complete Genome	2021-06-07
+ASM250771v2	GCF_002507715.2	Salmonella enterica		CFSAN064276				From INSDC submitter	4806207	Complete Genome	2021-06-07
+ASM250774v2	GCF_002507745.2	Salmonella enterica		CFSAN060808				From INSDC submitter	4660570	Complete Genome	2021-06-07
+ASM250786v2	GCF_002507865.2	Salmonella enterica		CFSAN060809				From INSDC submitter	4484627	Complete Genome	2021-06-07
+ASM250787v2	GCF_002507875.2	Salmonella enterica		CFSAN060807				From INSDC submitter	4753965	Complete Genome	2021-06-07
+ASM250791v2	GCF_002507915.2	Salmonella enterica		CFSAN060804				From INSDC submitter	4902428	Complete Genome	2021-06-07
+ASM387221v2	GCF_003872215.1	Salmonella enterica		CFSAN029939				From INSDC submitter	5183854	Complete Genome	2021-05-24
+ASM387239v2	GCF_003872395.1	Salmonella enterica		CFSAN029945				From INSDC submitter	4680419	Complete Genome	2021-05-24
+ASM387262v2	GCF_003872625.1	Salmonella enterica		CFSAN029895				From INSDC submitter	4991210	Complete Genome	2021-06-07
+ASM411823v1	GCF_004118235.1	Salmonella enterica		CFSAN074583				From INSDC submitter	4794820	Contig	2019-01-29
+ASM411839v1	GCF_004118395.1	Salmonella enterica		CFSAN074596				From INSDC submitter	4756562	Contig	2019-01-29
+ASM411840v1	GCF_004118405.1	Salmonella enterica		CFSAN074588				From INSDC submitter	4803491	Contig	2019-01-29
+ASM411843v1	GCF_004118435.1	Salmonella enterica		CFSAN074591				From INSDC submitter	4926195	Contig	2019-01-29
+ASM411845v1	GCF_004118455.1	Salmonella enterica		CFSAN074587				From INSDC submitter	4806721	Contig	2019-01-29
+ASM411846v1	GCF_004118465.1	Salmonella enterica		CFSAN074594				From INSDC submitter	4922997	Contig	2019-01-29
+ASM411849v1	GCF_004118495.1	Salmonella enterica		CFSAN074586				From INSDC submitter	4806918	Contig	2019-01-29
+ASM411851v1	GCF_004118515.1	Salmonella enterica		CFSAN074590				From INSDC submitter	4903768	Contig	2019-01-29
+ASM411852v1	GCF_004118525.1	Salmonella enterica		CFSAN074589				From INSDC submitter	4805072	Contig	2019-01-29
+ASM411855v1	GCF_004118555.1	Salmonella enterica		CFSAN074582				From INSDC submitter	4806002	Contig	2019-01-29
+ASM411859v1	GCF_004118595.1	Salmonella enterica		CFSAN074592				From INSDC submitter	4920624	Contig	2019-01-29
+ASM411869v1	GCF_004118695.1	Salmonella enterica		CFSAN074576				From INSDC submitter	4843178	Contig	2019-01-29
+ASM411870v1	GCF_004118705.1	Salmonella enterica		CFSAN074556				From INSDC submitter	4756686	Contig	2019-01-29
+ASM411871v1	GCF_004118715.1	Salmonella enterica		CFSAN074577				From INSDC submitter	4845591	Contig	2019-01-29
+ASM411874v1	GCF_004118745.1	Salmonella enterica		CFSAN074557				From INSDC submitter	4759636	Contig	2019-01-29
+ASM411875v1	GCF_004118755.1	Salmonella enterica		CFSAN074558				From INSDC submitter	4759746	Contig	2019-01-29
+ASM411879v1	GCF_004118795.1	Salmonella enterica		CFSAN074560				From INSDC submitter	4753739	Contig	2019-01-29
+ASM411881v1	GCF_004118815.1	Salmonella enterica		CFSAN074554				From INSDC submitter	4919721	Contig	2019-01-29
+ASM411882v1	GCF_004118825.1	Salmonella enterica		CFSAN074555				From INSDC submitter	4763990	Contig	2019-01-29
+ASM411903v1	GCF_004119035.1	Salmonella enterica		CFSAN074597				From INSDC submitter	4765619	Contig	2019-01-29
+ASM411904v1	GCF_004119045.1	Salmonella enterica		CFSAN074593				From INSDC submitter	4924920	Contig	2019-01-29
+ASM411906v1	GCF_004119065.1	Salmonella enterica		CFSAN074598				From INSDC submitter	4762025	Contig	2019-01-29
+ASM411907v1	GCF_004119075.1	Salmonella enterica		CFSAN074584				From INSDC submitter	4804792	Contig	2019-01-29
+ASM411908v1	GCF_004119085.1	Salmonella enterica		CFSAN074595				From INSDC submitter	4760056	Contig	2019-01-29
+ASM411913v1	GCF_004119135.1	Salmonella enterica		CFSAN074578				From INSDC submitter	4847731	Contig	2019-01-29
+ASM411915v1	GCF_004119155.1	Salmonella enterica		CFSAN074559				From INSDC submitter	4763715	Contig	2019-01-29
+ASM412055v1	GCF_004120555.1	Salmonella enterica		192_17				From INSDC submitter	4538441	Contig	2019-01-30
+ASM412057v1	GCF_004120575.1	Salmonella enterica		72_18				From INSDC submitter	4836364	Contig	2019-01-30
+ASM412058v1	GCF_004120585.1	Salmonella enterica		170_17				From INSDC submitter	4785391	Contig	2019-01-30
+ASM412059v1	GCF_004120595.1	Salmonella enterica		185_14				From INSDC submitter	4720925	Contig	2019-01-30
+ASM412065v1	GCF_004120655.1	Salmonella enterica		169_11				From INSDC submitter	4689775	Contig	2019-01-30
+ASM412070v1	GCF_004120705.1	Salmonella enterica		192_16				From INSDC submitter	4686759	Contig	2019-01-30
+ASM412071v1	GCF_004120715.1	Salmonella enterica		470_11				From INSDC submitter	4731530	Contig	2019-01-30
+ASM412075v1	GCF_004120755.1	Salmonella enterica		148_14				From INSDC submitter	4742673	Contig	2019-01-30
+ASM412076v1	GCF_004120765.1	Salmonella enterica		189_13				From INSDC submitter	4699593	Contig	2019-01-30
+ASM412077v1	GCF_004120775.1	Salmonella enterica		194_17				From INSDC submitter	4625704	Contig	2019-01-30
+ASM412078v1	GCF_004120785.1	Salmonella enterica		72_15				From INSDC submitter	4732743	Contig	2019-01-30
+ASM412083v1	GCF_004120835.1	Salmonella enterica		166_11				From INSDC submitter	4713338	Contig	2019-01-30
+ASM412085v1	GCF_004120855.1	Salmonella enterica		21_17				From INSDC submitter	4594154	Contig	2019-01-30
+ASM412163v1	GCF_004121635.1	Salmonella enterica		133_16				From INSDC submitter	4868949	Contig	2019-01-30
+ASM412164v1	GCF_004121645.1	Salmonella enterica		112_16				From INSDC submitter	4687576	Contig	2019-01-30
+ASM412167v1	GCF_004121675.1	Salmonella enterica		173_17				From INSDC submitter	4723605	Contig	2019-01-30
+ASM412171v1	GCF_004121715.1	Salmonella enterica		169_17				From INSDC submitter	4787769	Contig	2019-01-30
+ASM413583v1	GCF_004135835.1	Salmonella enterica		FORC_078				From INSDC submitter	4745355	Complete Genome	2019-02-04
+ASM422378v2	GCF_004223785.1	Salmonella enterica		CFSAN029871				From INSDC submitter	5159176	Complete Genome	2021-06-07
+ASM435422v1	GCF_004354225.1	Salmonella enterica		FDA00009424				From INSDC submitter	4611179	Complete Genome	2019-03-18
+ASM435428v1	GCF_004354285.1	Salmonella enterica		FSW0104				From INSDC submitter	4820913	Complete Genome	2019-03-18
+ASM468124v1	GCF_004681245.1	Salmonella enterica		SW1				From INSDC submitter	4874058	Scaffold	2019-04-05
+ASM478610v1	GCF_004786105.1	Salmonella enterica		C3				From INSDC submitter	5237335	Contig	2019-04-12
+ASM505980v1	GCF_005059805.1	Salmonella enterica		SW39				From INSDC submitter	4982827	Contig	2019-04-30
+ASM541175v2	GCF_005411755.1	Salmonella enterica		CFSAN008785				From INSDC submitter	5070245	Complete Genome	2021-06-07
+ASM553207v2	GCF_005532075.1	Salmonella enterica		CFSAN030601				From INSDC submitter	4709267	Complete Genome	2021-06-07
+ASM553289v2	GCF_005532895.1	Salmonella enterica		CFSAN029879				From INSDC submitter	5113066	Complete Genome	2021-06-07
+ASM553293v2	GCF_005532935.1	Salmonella enterica		CFSAN029872				From INSDC submitter	5202476	Complete Genome	2021-06-07
+ASM553453v2	GCF_005534535.1	Salmonella enterica		CFSAN008812				From INSDC submitter	4943564	Complete Genome	2021-06-07
+ASM557659v1	GCF_005576595.1	Salmonella enterica		CFSAN005645				From INSDC submitter	4615193	Complete Genome	2019-05-22
+ASM560643v2	GCF_005606435.1	Salmonella enterica		CFSAN029843				From INSDC submitter	5215467	Complete Genome	2021-06-07
+ASM560653v2	GCF_005606535.1	Salmonella enterica		CFSAN029894				From INSDC submitter	5061743	Complete Genome	2021-06-07
+ASM560803v2	GCF_005608035.1	Salmonella enterica		CFSAN057220				From INSDC submitter	4747185	Complete Genome	2021-08-05
+ASM567625v2	GCF_005676255.1	Salmonella enterica		CFSAN024144				From INSDC submitter	4516456	Complete Genome	2021-06-07
+ASM578150v1	GCF_005781505.1	Salmonella enterica		H9				From INSDC submitter	4635151	Scaffold	2019-05-22
+ASM578156v1	GCF_005781565.1	Salmonella enterica		H8				From INSDC submitter	4694652	Scaffold	2019-05-22
+ASM578158v1	GCF_005781585.1	Salmonella enterica		H7				From INSDC submitter	4694027	Scaffold	2019-05-22
+ASM578160v1	GCF_005781605.1	Salmonella enterica		H5				From INSDC submitter	4701900	Contig	2019-05-22
+ASM578161v1	GCF_005781615.1	Salmonella enterica		H6				From INSDC submitter	4693534	Scaffold	2019-05-22
+ASM578163v1	GCF_005781635.1	Salmonella enterica		H46				From INSDC submitter	4725922	Contig	2019-05-22
+ASM578166v1	GCF_005781665.1	Salmonella enterica		H45				From INSDC submitter	4637547	Contig	2019-05-22
+ASM578167v1	GCF_005781675.1	Salmonella enterica		H44				From INSDC submitter	4693400	Scaffold	2019-05-23
+ASM578168v1	GCF_005781685.1	Salmonella enterica		H43				From INSDC submitter	4726786	Scaffold	2019-05-22
+ASM578172v1	GCF_005781725.1	Salmonella enterica		H42				From INSDC submitter	4693238	Scaffold	2019-05-22
+ASM578173v1	GCF_005781735.1	Salmonella enterica		H41				From INSDC submitter	4727068	Scaffold	2019-05-23
+ASM578175v1	GCF_005781755.1	Salmonella enterica		H3				From INSDC submitter	4693575	Scaffold	2019-05-23
+ASM578177v1	GCF_005781775.1	Salmonella enterica		H37				From INSDC submitter	4695722	Contig	2019-05-23
+ASM578179v1	GCF_005781795.1	Salmonella enterica		H40				From INSDC submitter	4691814	Contig	2019-05-23
+ASM578182v1	GCF_005781825.1	Salmonella enterica		H35				From INSDC submitter	4726170	Scaffold	2019-05-23
+ASM578183v1	GCF_005781835.1	Salmonella enterica		H36				From INSDC submitter	4636529	Scaffold	2019-05-23
+ASM578185v1	GCF_005781855.1	Salmonella enterica		H34				From INSDC submitter	4693449	Scaffold	2019-05-23
+ASM578186v1	GCF_005781865.1	Salmonella enterica		H32				From INSDC submitter	4700230	Contig	2019-05-23
+ASM578190v1	GCF_005781905.1	Salmonella enterica		H33				From INSDC submitter	4693646	Scaffold	2019-05-23
+ASM578192v1	GCF_005781925.1	Salmonella enterica		H31				From INSDC submitter	4700260	Scaffold	2019-05-23
+ASM578193v1	GCF_005781935.1	Salmonella enterica		H30				From INSDC submitter	4733569	Scaffold	2019-05-23
+ASM578196v1	GCF_005781965.1	Salmonella enterica		H29				From INSDC submitter	4727022	Scaffold	2019-05-23
+ASM578197v1	GCF_005781975.1	Salmonella enterica		H2				From INSDC submitter	4693066	Contig	2019-05-23
+ASM578200v1	GCF_005782005.1	Salmonella enterica		H28				From INSDC submitter	4726469	Contig	2019-05-23
+ASM578201v1	GCF_005782015.1	Salmonella enterica		H26				From INSDC submitter	4770720	Scaffold	2019-05-23
+ASM578204v1	GCF_005782045.1	Salmonella enterica		H27				From INSDC submitter	4669025	Scaffold	2019-05-23
+ASM578205v1	GCF_005782055.1	Salmonella enterica		H24				From INSDC submitter	4691814	Scaffold	2019-05-23
+ASM578206v1	GCF_005782065.1	Salmonella enterica		H25				From INSDC submitter	4734207	Scaffold	2019-05-23
+ASM578208v1	GCF_005782085.1	Salmonella enterica		H23				From INSDC submitter	4692700	Scaffold	2019-05-23
+ASM578212v1	GCF_005782125.1	Salmonella enterica		H22				From INSDC submitter	4693516	Scaffold	2019-05-23
+ASM578214v1	GCF_005782145.1	Salmonella enterica		H21				From INSDC submitter	4721165	Scaffold	2019-05-23
+ASM578216v1	GCF_005782165.1	Salmonella enterica		H20				From INSDC submitter	4702548	Contig	2019-05-23
+ASM578217v1	GCF_005782175.1	Salmonella enterica		H1				From INSDC submitter	4727374	Scaffold	2019-05-23
+ASM578218v1	GCF_005782185.1	Salmonella enterica		H19				From INSDC submitter	4699124	Contig	2019-05-23
+ASM578220v1	GCF_005782205.1	Salmonella enterica		H18				From INSDC submitter	4754773	Scaffold	2019-05-23
+ASM578224v1	GCF_005782245.1	Salmonella enterica		H17				From INSDC submitter	4692903	Scaffold	2019-05-23
+ASM578226v1	GCF_005782265.1	Salmonella enterica		H15				From INSDC submitter	4693554	Scaffold	2019-05-23
+ASM578228v1	GCF_005782285.1	Salmonella enterica		H14				From INSDC submitter	4692791	Contig	2019-05-23
+ASM578229v1	GCF_005782295.1	Salmonella enterica		H16				From INSDC submitter	4693742	Scaffold	2019-05-23
+ASM578230v1	GCF_005782305.1	Salmonella enterica		H13				From INSDC submitter	4693587	Scaffold	2019-05-23
+ASM578232v1	GCF_005782325.1	Salmonella enterica		H12				From INSDC submitter	4692453	Scaffold	2019-05-23
+ASM578236v1	GCF_005782365.1	Salmonella enterica		H11				From INSDC submitter	4699531	Contig	2019-05-23
+ASM578240v1	GCF_005782405.1	Salmonella enterica		H10				From INSDC submitter	4693753	Contig	2019-05-23
+ASM593586v2	GCF_005935865.1	Salmonella enterica		CFSAN024219				From INSDC submitter	4871995	Complete Genome	2021-06-07
+ASM593608v2	GCF_005936085.1	Salmonella enterica		CFSAN024152				From INSDC submitter	4664770	Complete Genome	2021-06-07
+ASM594670v2	GCF_005946705.1	Salmonella enterica		CFSAN029868				From INSDC submitter	4884048	Complete Genome	2021-06-07
+ASM597864v2	GCF_005978645.1	Salmonella enterica		CFSAN055400				From INSDC submitter	4593157	Complete Genome	2021-08-05
+ASM599176v2	GCF_005991765.1	Salmonella enterica		CFSAN008813				From INSDC submitter	4997605	Complete Genome	2021-06-07
+ASM599630v2	GCF_005996305.1	Salmonella enterica		CFSAN057258				From INSDC submitter	4824470	Complete Genome	2021-08-06
+ASM599632v2	GCF_005996325.1	Salmonella enterica		CFSAN057252				From INSDC submitter	4780872	Complete Genome	2021-08-06
+ASM599646v2	GCF_005996465.1	Salmonella enterica		CFSAN057226				From INSDC submitter	4765133	Complete Genome	2021-08-05
+ASM599652v2	GCF_005996525.1	Salmonella enterica		CFSAN057241				From INSDC submitter	4848895	Complete Genome	2021-08-06
+ASM601676v2	GCF_006016765.1	Salmonella enterica		CFSAN029855				From INSDC submitter	4786558	Complete Genome	2021-06-07
+ASM601917v2	GCF_006019175.1	Salmonella enterica		CFSAN029958				From INSDC submitter	4969982	Complete Genome	2021-05-24
+ASM602625v2	GCF_006026255.1	Salmonella enterica		CFSAN038591				From INSDC submitter	4583372	Complete Genome	2021-08-05
+ASM602705v2	GCF_006027055.1	Salmonella enterica		CFSAN038580				From INSDC submitter	4583372	Complete Genome	2021-08-05
+ASM605105v2	GCF_006051055.1	Salmonella enterica		08-0466				From INSDC submitter	4925620	Complete Genome	2020-05-27
+ASM605113v2	GCF_006051135.1	Salmonella enterica		68-4603				From INSDC submitter	4612001	Complete Genome	2020-05-27
+ASM609091v2	GCF_006090915.1	Salmonella enterica		CFSAN029943				From INSDC submitter	4845604	Complete Genome	2021-06-07
+ASM609857v2	GCF_006098575.1	Salmonella enterica		CFSAN048049				From INSDC submitter	4651096	Complete Genome	2021-06-10
+ASM611259v2	GCF_006112595.1	Salmonella enterica		2014K-0203				From INSDC submitter	4629168	Complete Genome	2020-05-27
+ASM619928v2	GCF_006199285.1	Salmonella enterica		CFSAN073554				From INSDC submitter	4721400	Complete Genome	2021-06-07
+ASM619930v2	GCF_006199305.1	Salmonella enterica		CFSAN073546				From INSDC submitter	4583521	Complete Genome	2021-06-07
+ASM631530v2	GCF_006315305.1	Salmonella enterica		CFSAN073553				From INSDC submitter	4520275	Complete Genome	2021-05-28
+ASM634486v2	GCF_006344865.1	Salmonella enterica		OSF056662				From INSDC submitter	4812014	Complete Genome	2021-06-07
+ASM636475v1	GCF_006364755.1	Salmonella enterica		FDAARGOS_765				From INSDC submitter	4482093	Complete Genome	2019-06-19
+ASM636533v1	GCF_006365335.1	Salmonella enterica		FDAARGOS_768				From INSDC submitter	4954783	Complete Genome	2019-06-19
+ASM637049v1	GCF_006370495.1	Salmonella enterica		FDAARGOS_609				From INSDC submitter	4832922	Contig	2019-06-17
+ASM646128v1	GCF_006461285.1	Salmonella enterica		GSJ/2016-Sal.-015				From INSDC submitter	5014522	Scaffold	2019-06-25
+ASM646129v1	GCF_006461295.1	Salmonella enterica		GSJ/2016-Sal.-010				From INSDC submitter	4942227	Scaffold	2019-06-25
+ASM646130v1	GCF_006461305.1	Salmonella enterica		GSJ/2016-Sal.-016				From INSDC submitter	4973767	Contig	2019-06-25
+ASM646132v1	GCF_006461325.1	Salmonella enterica		GSJ/2016-Sal.-018				From INSDC submitter	5030568	Scaffold	2019-06-25
+ASM646132v2	GCF_006461325.2	Salmonella enterica		GSJ/2016-Sal.-018				From INSDC submitter	5093312	Complete Genome	2021-03-08
+ASM646136v1	GCF_006461365.1	Salmonella enterica		GSJ/2016-Sal.-012				From INSDC submitter	5021657	Scaffold	2019-06-25
+ASM646138v1	GCF_006461385.1	Salmonella enterica		GSJ/2017-Sal.-010				From INSDC submitter	4894769	Contig	2019-06-25
+ASM646140v1	GCF_006461405.1	Salmonella enterica		GSJ/2017-Sal.-008				From INSDC submitter	5178328	Contig	2019-06-25
+ASM646141v1	GCF_006461415.1	Salmonella enterica		GSJ/2017-Sal.-009				From INSDC submitter	4842985	Contig	2019-06-25
+ASM646141v2	GCF_006461415.2	Salmonella enterica		GSJ/2017-Sal.-009				From INSDC submitter	4897518	Complete Genome	2020-07-16
+ASM646142v1	GCF_006461425.1	Salmonella enterica		GSJ/2016-Sal.-017				From INSDC submitter	5041482	Scaffold	2019-06-25
+ASM646146v1	GCF_006461465.1	Salmonella enterica		GSJ/2017-Sal.-014				From INSDC submitter	4917471	Scaffold	2019-06-25
+ASM676096v2	GCF_006760965.1	Salmonella enterica		72-4606				From INSDC submitter	5648353	Complete Genome	2020-05-27
+ASM684694v2	GCF_006846945.1	Salmonella enterica		CFSAN024184				From INSDC submitter	4611122	Complete Genome	2021-06-07
+ASM684930v2	GCF_006849305.1	Salmonella enterica		CFSAN024230				From INSDC submitter	4907209	Complete Genome	2021-06-07
+ASM685828v2	GCF_006858285.1	Salmonella enterica		FDA00008277				From INSDC submitter	4612973	Complete Genome	2021-06-07
+ASM686834v2	GCF_006868345.1	Salmonella enterica		CFSAN029856				From INSDC submitter	4723925	Complete Genome	2021-06-07
+ASM686840v2	GCF_006868405.1	Salmonella enterica		CFSAN029865				From INSDC submitter	4983948	Complete Genome	2021-06-07
+ASM686890v2	GCF_006868905.1	Salmonella enterica		CFSAN029878				From INSDC submitter	4678982	Complete Genome	2021-06-07
+ASM686996v2	GCF_006869965.1	Salmonella enterica		CFSAN029891				From INSDC submitter	5039280	Complete Genome	2021-06-07
+ASM687000v2	GCF_006870005.1	Salmonella enterica		CFSAN029882				From INSDC submitter	4911611	Complete Genome	2021-06-07
+ASM687382v2	GCF_006873825.1	Salmonella enterica		CFSAN029927				From INSDC submitter	4900955	Complete Genome	2021-06-07
+ASM693793v1	GCF_006937935.1	Salmonella enterica		SW109084				From INSDC submitter	5110131	Contig	2019-07-12
+ASM694838v2	GCF_006948385.1	Salmonella enterica		CFSAN008810				From INSDC submitter	5102196	Complete Genome	2021-06-07
+ASM694908v2	GCF_006949085.1	Salmonella enterica		CFSAN008789				From INSDC submitter	5153026	Complete Genome	2021-06-07
+ASM694978v2	GCF_006949785.1	Salmonella enterica		CFSAN008783				From INSDC submitter	4953816	Complete Genome	2021-06-07
+ASM696756v2	GCF_006967565.1	Salmonella enterica		2010K-2057				From INSDC submitter	5183043	Complete Genome	2020-05-27
+ASM696924v1	GCF_006969245.1	Salmonella enterica		MAC15				From INSDC submitter	5052222	Complete Genome	2019-07-15
+ASM701904v2	GCF_007019045.1	Salmonella enterica		87-0091				From INSDC submitter	4731255	Complete Genome	2020-05-27
+ASM704036v2	GCF_007040365.1	Salmonella enterica		CFSAN057232				From INSDC submitter	4851336	Complete Genome	2021-08-05
+ASM704040v2	GCF_007040405.1	Salmonella enterica		CFSAN057240				From INSDC submitter	4735681	Complete Genome	2021-08-06
+ASM838629v1	GCF_008386295.1	Salmonella enterica		QH				From INSDC submitter	4890828	Complete Genome	2019-09-16
+ASM892386v1	GCF_008923865.1	Salmonella enterica		KW867				From INSDC submitter	4662180	Contig	2019-10-08
+ASM892387v1	GCF_008923875.1	Salmonella enterica		KW866				From INSDC submitter	4559079	Contig	2019-10-08
+ASM893122v1	GCF_008931225.1	Salmonella enterica		S61394				From INSDC submitter	5210346	Complete Genome	2019-10-09
+ASM893124v1	GCF_008931245.1	Salmonella enterica		S44712				From INSDC submitter	5226840	Complete Genome	2019-10-09
+ASM902598v1	GCF_009025985.1	Salmonella enterica		KW865				From INSDC submitter	4691248	Contig	2019-10-08
+ASM938968v1	GCF_009389685.1	Salmonella enterica		DR-039				From INSDC submitter	4928760	Contig	2019-10-29
+ASM949593v1	GCF_009495935.1	Salmonella enterica		Kentucky SRC73				From INSDC submitter	4779603	Contig	2019-11-02
+ASM964819v1	GCF_009648195.1	Salmonella enterica		MY6				From INSDC submitter	4719382	Scaffold	2019-11-10
+ASM972989v1	GCF_009729895.1	Salmonella enterica		FDAARGOS_710				From INSDC submitter	4611029	Complete Genome	2019-12-05
+ASM972991v1	GCF_009729915.1	Salmonella enterica		FDAARGOS_708				From INSDC submitter	5136727	Complete Genome	2019-12-05
+ASM972993v1	GCF_009729935.1	Salmonella enterica		FDAARGOS_707				From INSDC submitter	4556079	Complete Genome	2019-12-05
+ASM972995v1	GCF_009729955.1	Salmonella enterica		FDAARGOS_688				From INSDC submitter	4633945	Complete Genome	2019-12-05
+ASM972997v1	GCF_009729975.1	Salmonella enterica		FDAARGOS_687				From INSDC submitter	5066398	Complete Genome	2019-12-05
+ASM973001v1	GCF_009730015.1	Salmonella enterica		FDAARGOS_712				From INSDC submitter	4670417	Complete Genome	2019-12-05
+ASM973926v1	GCF_009739265.1	Salmonella enterica		DR-040				From INSDC submitter	4941333	Contig	2019-12-10
+ASM982125v1	GCF_009821255.1	Salmonella enterica		SC114				From INSDC submitter	4968896	Contig	2019-12-31
+ASM982128v1	GCF_009821285.1	Salmonella enterica		SC112				From INSDC submitter	4935231	Contig	2019-12-31
+ASM982129v1	GCF_009821295.1	Salmonella enterica		SC113				From INSDC submitter	4968804	Contig	2019-12-31
+ASM982132v1	GCF_009821325.1	Salmonella enterica		SC111				From INSDC submitter	4828326	Contig	2019-12-31
+ASM982141v1	GCF_009821415.1	Salmonella enterica		SC103				From INSDC submitter	5020011	Contig	2019-12-31
+ASM993051v1	GCF_009930515.1	Salmonella enterica		17E564				From INSDC submitter	5016686	Contig	2020-01-24
+ASM993052v1	GCF_009930525.1	Salmonella enterica		16E367				From INSDC submitter	5116493	Contig	2020-01-24
+ASM993053v1	GCF_009930535.1	Salmonella enterica		16E229				From INSDC submitter	5008327	Contig	2020-01-24
+ASM993057v1	GCF_009930575.1	Salmonella enterica		16E080				From INSDC submitter	5163718	Chromosome	2020-01-24
+ASM993059v1	GCF_009930595.1	Salmonella enterica		16E078				From INSDC submitter	5080814	Contig	2020-01-24
+ASM993060v1	GCF_009930605.1	Salmonella enterica		16E067				From INSDC submitter	5167067	Contig	2020-01-24
+ASM993061v1	GCF_009930615.1	Salmonella enterica		15E475				From INSDC submitter	5098304	Contig	2020-01-24
+ASM993065v1	GCF_009930655.1	Salmonella enterica		15E464				From INSDC submitter	5141022	Contig	2020-01-24
+ASM993067v1	GCF_009930675.1	Salmonella enterica		15E434				From INSDC submitter	5145105	Chromosome	2020-01-24
+ASM1007837v1	GCF_010078375.1	Salmonella enterica		15E059				From INSDC submitter	5031186	Scaffold	2020-01-31
+ASM1106573v1	GCF_011065735.1	Salmonella enterica		Z&Z05S				From INSDC submitter	4998557	Contig	2020-03-06
+ASM1106574v1	GCF_011065745.1	Salmonella enterica		Z&Z04S				From INSDC submitter	5093660	Contig	2020-03-06
+ASM1106581v1	GCF_011065815.1	Salmonella enterica		Z&Z03S				From INSDC submitter	4969570	Contig	2020-03-06
+ASM1106583v1	GCF_011065835.1	Salmonella enterica		Z&Z02S				From INSDC submitter	4986231	Contig	2020-03-06
+ASM1106586v1	GCF_011065865.1	Salmonella enterica		Z&Z01S				From INSDC submitter	4969361	Contig	2020-03-06
+ASM1175110v1	GCF_011751105.1	Salmonella enterica		SEH-19				From INSDC submitter	4709737	Contig	2020-03-25
+ASM1175117v1	GCF_011751175.1	Salmonella enterica		SEH-19				From INSDC submitter	4710808	Contig	2020-03-25
+ASM1227327v1	GCF_012273275.1	Salmonella enterica		FDAARGOS_686				From INSDC submitter	4647334	Chromosome	2020-04-12
+ASM1227347v1	GCF_012273475.1	Salmonella enterica		FDAARGOS_709				From INSDC submitter	4845495	Chromosome	2020-04-12
+ASM1284443v1	GCF_012844435.1	Salmonella enterica		SAL5				From INSDC submitter	4599865	Contig	2020-04-26
+ASM1313550v1	GCF_013135505.1	Salmonella enterica		VL-0618-3				From INSDC submitter	4811001	Contig	2020-05-20
+ASM1316162v1	GCF_013161625.1	Salmonella enterica		2011K-1440				From INSDC submitter	4888815	Complete Genome	2020-05-25
+ASM1316180v1	GCF_013161805.1	Salmonella enterica		2012K-0845				From INSDC submitter	5076106	Complete Genome	2020-05-25
+ASM1316202v1	GCF_013162025.1	Salmonella enterica		94-0093				From INSDC submitter	4796443	Complete Genome	2020-05-25
+ASM1316248v1	GCF_013162485.1	Salmonella enterica		2014K-1020				From INSDC submitter	4505366	Complete Genome	2020-05-25
+ASM1334886v1	GCF_013348865.1	Salmonella enterica		85-0120				From INSDC submitter	5126632	Complete Genome	2020-06-17
+ASM1336449v1	GCF_013364495.1	Salmonella enterica		FDAARGOS_717				From INSDC submitter	4975130	Chromosome	2020-06-22
+ASM1336451v1	GCF_013364515.1	Salmonella enterica		FDAARGOS_718				From INSDC submitter	4801768	Chromosome	2020-06-22
+ASM1340173v1	GCF_013401735.1	Salmonella enterica		UPMP2115				From INSDC submitter	4724708	Contig	2020-07-11
+ASM1341592v1	GCF_013415925.1	Salmonella enterica		SRC27				From INSDC submitter	5259233	Complete Genome	2020-07-15
+ASM1430621v1	GCF_014306215.1	Salmonella enterica		1961				From INSDC submitter	5170746	Contig	2020-08-26
+ASM1430623v1	GCF_014306235.1	Salmonella enterica		1240				From INSDC submitter	5171680	Contig	2020-08-26
+ASM1430625v1	GCF_014306255.1	Salmonella enterica		1243				From INSDC submitter	5173410	Contig	2020-08-26
+ASM1430627v1	GCF_014306275.1	Salmonella enterica		1895				From INSDC submitter	5171004	Contig	2020-08-26
+ASM1430628v1	GCF_014306285.1	Salmonella enterica		1883				From INSDC submitter	5171781	Contig	2020-08-26
+ASM1430631v1	GCF_014306315.1	Salmonella enterica		4				From INSDC submitter	5152156	Contig	2020-08-26
+ASM1430632v1	GCF_014306325.1	Salmonella enterica		1667				From INSDC submitter	5174220	Contig	2020-08-26
+ASM1430635v1	GCF_014306355.1	Salmonella enterica		1663				From INSDC submitter	5172084	Contig	2020-08-26
+ASM1430637v1	GCF_014306375.1	Salmonella enterica		585				From INSDC submitter	5200148	Contig	2020-08-26
+ASM1430639v1	GCF_014306395.1	Salmonella enterica		578				From INSDC submitter	5180756	Contig	2020-08-26
+ASM1430640v1	GCF_014306405.1	Salmonella enterica		501				From INSDC submitter	5137506	Contig	2020-08-26
+ASM1430647v1	GCF_014306475.1	Salmonella enterica		383				From INSDC submitter	5134292	Contig	2020-08-26
+ASM1430649v1	GCF_014306495.1	Salmonella enterica		431				From INSDC submitter	5190833	Contig	2020-08-26
+ASM1430650v1	GCF_014306505.1	Salmonella enterica		303				From INSDC submitter	5128686	Contig	2020-08-26
+ASM1430653v1	GCF_014306535.1	Salmonella enterica		137				From INSDC submitter	5315874	Contig	2020-08-26
+ASM1430654v1	GCF_014306545.1	Salmonella enterica		345				From INSDC submitter	5187782	Contig	2020-08-26
+ASM1430655v1	GCF_014306555.1	Salmonella enterica		91				From INSDC submitter	5133869	Contig	2020-08-26
+ASM1430656v1	GCF_014306565.1	Salmonella enterica		59				From INSDC submitter	5171084	Contig	2020-08-26
+ASM1430661v1	GCF_014306615.1	Salmonella enterica		69				From INSDC submitter	5141437	Contig	2020-08-26
+ASM1433417v1	GCF_014334175.1	Salmonella enterica		SLR1_7697				From INSDC submitter	4870141	Complete Genome	2020-08-30
+ASM1433419v1	GCF_014334195.1	Salmonella enterica		SLR1_7966				From INSDC submitter	4982694	Complete Genome	2020-08-30
+ASM1433423v1	GCF_014334235.1	Salmonella enterica		SLR1_7627				From INSDC submitter	5021136	Complete Genome	2020-08-30
+ASM1433425v1	GCF_014334255.1	Salmonella enterica		SLR1_8250				From INSDC submitter	4774395	Complete Genome	2020-08-30
+ASM1452146v1	GCF_014521465.1	Salmonella enterica		K_SA184				From INSDC submitter	4725087	Complete Genome	2020-09-10
+ASM1471262v1	GCF_014712625.1	Salmonella enterica		SC1				From INSDC submitter	4893037	Contig	2020-09-23
+ASM1485712v1	GCF_014857125.1	Salmonella enterica		S15BD05371				From INSDC submitter	5243448	Contig	2020-10-06
+ASM1485734v1	GCF_014857345.1	Salmonella enterica		S15BD05371				From INSDC submitter	5248759	Contig	2020-10-06
+ASM1485738v1	GCF_014857385.1	Salmonella enterica		S15BD05371				From INSDC submitter	5112335	Contig	2020-10-06
+ASM1485740v1	GCF_014857405.1	Salmonella enterica		S15BD05371				From INSDC submitter	5243584	Contig	2020-10-06
+ASM1485745v1	GCF_014857455.1	Salmonella enterica		S15BD05371				From INSDC submitter	5241763	Contig	2020-10-06
+ASM1485749v1	GCF_014857495.1	Salmonella enterica		S15BD05371				From INSDC submitter	5082830	Contig	2020-10-06
+ASM1485751v1	GCF_014857515.1	Salmonella enterica		S15BD05371				From INSDC submitter	5035759	Contig	2020-10-06
+ASM1485754v1	GCF_014857545.1	Salmonella enterica		S15BD05371				From INSDC submitter	5174877	Contig	2020-10-06
+ASM1485755v1	GCF_014857555.1	Salmonella enterica		S15BD05371				From INSDC submitter	5176553	Contig	2020-10-06
+ASM1502431v1	GCF_015024315.1	Salmonella enterica		DR-022				From INSDC submitter	4680921	Scaffold	2020-10-27
+ASM1502435v1	GCF_015024355.1	Salmonella enterica		DR-021				From INSDC submitter	4683919	Contig	2020-10-27
+ASM1535152v1	GCF_015351525.1	Salmonella enterica		91A				From INSDC submitter	4976077	Contig	2020-11-10
+ASM1564550v1	GCF_015645505.1	Salmonella enterica		LJH 1234				From INSDC submitter	4689399	Scaffold	2020-11-22
+ASM1564550v2	GCF_015645505.2	Salmonella enterica		LJH 1234				From INSDC submitter	4645868	Scaffold	2021-05-15
+ASM1564551v1	GCF_015645515.1	Salmonella enterica		LJH 614				From INSDC submitter	4645868	Scaffold	2020-11-22
+ASM1564551v2	GCF_015645515.2	Salmonella enterica		LJH 614				From INSDC submitter	4689399	Scaffold	2021-05-15
+ASM1564552v1	GCF_015645525.1	Salmonella enterica		FSIS 026				From INSDC submitter	4619380	Scaffold	2020-11-22
+ASM1564556v1	GCF_015645565.1	Salmonella enterica		H3380				From INSDC submitter	4942086	Scaffold	2020-11-22
+ASM1564558v1	GCF_015645585.1	Salmonella enterica		H3527				From INSDC submitter	4728265	Scaffold	2020-11-22
+ASM1564563v1	GCF_015645635.1	Salmonella enterica		BAA-1045				From INSDC submitter	4745087	Scaffold	2020-11-22
+ASM1594798v1	GCF_015947985.1	Salmonella enterica		S251				From INSDC submitter	5049351	Contig	2020-12-10
+ASM1594799v1	GCF_015947995.1	Salmonella enterica		S254				From INSDC submitter	4712431	Contig	2020-12-10
+ASM1594800v1	GCF_015948005.1	Salmonella enterica		S255				From INSDC submitter	4967174	Contig	2020-12-10
+ASM1594801v1	GCF_015948015.1	Salmonella enterica		S252				From INSDC submitter	4744003	Contig	2020-12-10
+ASM1594802v1	GCF_015948025.1	Salmonella enterica		S253				From INSDC submitter	4835394	Contig	2020-12-10
+ASM1594808v1	GCF_015948085.1	Salmonella enterica		S249				From INSDC submitter	5114071	Contig	2020-12-10
+ASM1594809v1	GCF_015948095.1	Salmonella enterica		S248				From INSDC submitter	5114314	Contig	2020-12-10
+ASM1594810v1	GCF_015948105.1	Salmonella enterica		S212				From INSDC submitter	4890534	Contig	2020-12-10
+ASM1594811v1	GCF_015948115.1	Salmonella enterica		S219				From INSDC submitter	4904486	Contig	2020-12-10
+ASM1594813v1	GCF_015948135.1	Salmonella enterica		S216				From INSDC submitter	4905398	Contig	2020-12-10
+ASM1594818v1	GCF_015948185.1	Salmonella enterica		S209				From INSDC submitter	4905921	Contig	2020-12-10
+ASM1594820v1	GCF_015948205.1	Salmonella enterica		S208				From INSDC submitter	4905362	Contig	2020-12-10
+ASM1594821v1	GCF_015948215.1	Salmonella enterica		S202				From INSDC submitter	4895604	Contig	2020-12-10
+ASM1594822v1	GCF_015948225.1	Salmonella enterica		S203				From INSDC submitter	4904049	Contig	2020-12-10
+ASM1594824v1	GCF_015948245.1	Salmonella enterica		S204				From INSDC submitter	4905395	Contig	2020-12-10
+ASM1594828v1	GCF_015948285.1	Salmonella enterica		S201				From INSDC submitter	4893998	Contig	2020-12-10
+ASM1594830v1	GCF_015948305.1	Salmonella enterica		S200				From INSDC submitter	4904311	Contig	2020-12-10
+ASM1594831v1	GCF_015948315.1	Salmonella enterica		S198				From INSDC submitter	4802576	Contig	2020-12-10
+ASM1594832v1	GCF_015948325.1	Salmonella enterica		S199				From INSDC submitter	4920636	Contig	2020-12-10
+ASM1594835v1	GCF_015948355.1	Salmonella enterica		S197				From INSDC submitter	4901505	Contig	2020-12-10
+ASM1594838v1	GCF_015948385.1	Salmonella enterica		S196				From INSDC submitter	4903838	Contig	2020-12-10
+ASM1594840v1	GCF_015948405.1	Salmonella enterica		S194				From INSDC submitter	4903352	Contig	2020-12-10
+ASM1594841v1	GCF_015948415.1	Salmonella enterica		S191				From INSDC submitter	4905608	Contig	2020-12-10
+ASM1594842v1	GCF_015948425.1	Salmonella enterica		S188				From INSDC submitter	4903775	Contig	2020-12-10
+ASM1594846v1	GCF_015948465.1	Salmonella enterica		S186				From INSDC submitter	4903012	Contig	2020-12-10
+ASM1594848v1	GCF_015948485.1	Salmonella enterica		S184				From INSDC submitter	4894914	Contig	2020-12-10
+ASM1594850v1	GCF_015948505.1	Salmonella enterica		S171				From INSDC submitter	4738587	Contig	2020-12-10
+ASM1594851v1	GCF_015948515.1	Salmonella enterica		S168				From INSDC submitter	4959268	Contig	2020-12-10
+ASM1594852v1	GCF_015948525.1	Salmonella enterica		S169				From INSDC submitter	4977525	Contig	2020-12-10
+ASM1594856v1	GCF_015948565.1	Salmonella enterica		S162				From INSDC submitter	4836298	Contig	2020-12-10
+ASM1594857v1	GCF_015948575.1	Salmonella enterica		S156				From INSDC submitter	4552470	Contig	2020-12-10
+ASM1594860v1	GCF_015948605.1	Salmonella enterica		S154				From INSDC submitter	4709149	Contig	2020-12-10
+ASM1594863v1	GCF_015948635.1	Salmonella enterica		S153				From INSDC submitter	4597889	Contig	2020-12-10
+ASM1594866v1	GCF_015948665.1	Salmonella enterica		S152				From INSDC submitter	4606983	Contig	2020-12-10
+ASM1594867v1	GCF_015948675.1	Salmonella enterica		S151				From INSDC submitter	4606643	Contig	2020-12-10
+ASM1594870v1	GCF_015948705.1	Salmonella enterica		S150				From INSDC submitter	4602003	Contig	2020-12-10
+ASM1594871v1	GCF_015948715.1	Salmonella enterica		S149				From INSDC submitter	4701105	Contig	2020-12-10
+ASM1594872v1	GCF_015948725.1	Salmonella enterica		S148				From INSDC submitter	4708732	Contig	2020-12-10
+ASM1594876v1	GCF_015948765.1	Salmonella enterica		S147				From INSDC submitter	4592857	Contig	2020-12-10
+ASM1594877v1	GCF_015948775.1	Salmonella enterica		S146				From INSDC submitter	5031347	Contig	2020-12-10
+ASM1594880v1	GCF_015948805.1	Salmonella enterica		S145				From INSDC submitter	4730568	Contig	2020-12-10
+ASM1594881v1	GCF_015948815.1	Salmonella enterica		S143				From INSDC submitter	4992296	Contig	2020-12-10
+ASM1594882v1	GCF_015948825.1	Salmonella enterica		S133				From INSDC submitter	4771405	Contig	2020-12-10
+ASM1594886v1	GCF_015948865.1	Salmonella enterica		S132				From INSDC submitter	4771046	Contig	2020-12-10
+ASM1594888v1	GCF_015948885.1	Salmonella enterica		S126				From INSDC submitter	4894759	Contig	2020-12-10
+ASM1594890v1	GCF_015948905.1	Salmonella enterica		S123				From INSDC submitter	4664921	Contig	2020-12-10
+ASM1594892v1	GCF_015948925.1	Salmonella enterica		S124				From INSDC submitter	4672116	Contig	2020-12-10
+ASM1594893v1	GCF_015948935.1	Salmonella enterica		S125				From INSDC submitter	4742970	Contig	2020-12-10
+ASM1594896v1	GCF_015948965.1	Salmonella enterica		S121				From INSDC submitter	4587850	Contig	2020-12-10
+ASM1594897v1	GCF_015948975.1	Salmonella enterica		S120				From INSDC submitter	4769446	Contig	2020-12-10
+ASM1594898v1	GCF_015948985.1	Salmonella enterica		S118				From INSDC submitter	4593405	Contig	2020-12-10
+ASM1594902v1	GCF_015949025.1	Salmonella enterica		S115				From INSDC submitter	4779735	Contig	2020-12-10
+ASM1594904v1	GCF_015949045.1	Salmonella enterica		S111				From INSDC submitter	4741632	Contig	2020-12-10
+ASM1594906v1	GCF_015949065.1	Salmonella enterica		S114				From INSDC submitter	4748302	Contig	2020-12-10
+ASM1594908v1	GCF_015949085.1	Salmonella enterica		S112				From INSDC submitter	4750912	Contig	2020-12-10
+ASM1594909v1	GCF_015949095.1	Salmonella enterica		S110				From INSDC submitter	4571977	Contig	2020-12-10
+ASM1594912v1	GCF_015949125.1	Salmonella enterica		S109				From INSDC submitter	5202543	Contig	2020-12-10
+ASM1594913v1	GCF_015949135.1	Salmonella enterica		S108				From INSDC submitter	4738594	Contig	2020-12-10
+ASM1594914v1	GCF_015949145.1	Salmonella enterica		S107				From INSDC submitter	4675497	Contig	2020-12-10
+ASM1594918v1	GCF_015949185.1	Salmonella enterica		S105				From INSDC submitter	4771016	Contig	2020-12-10
+ASM1594919v1	GCF_015949195.1	Salmonella enterica		S106				From INSDC submitter	4911667	Contig	2020-12-10
+ASM1594922v1	GCF_015949225.1	Salmonella enterica		S103				From INSDC submitter	4777264	Contig	2020-12-10
+ASM1594924v1	GCF_015949245.1	Salmonella enterica		S104				From INSDC submitter	5003920	Contig	2020-12-10
+ASM1594925v1	GCF_015949255.1	Salmonella enterica		S102				From INSDC submitter	4675166	Contig	2020-12-10
+ASM1594927v1	GCF_015949275.1	Salmonella enterica		S97				From INSDC submitter	4776722	Contig	2020-12-10
+ASM1594930v1	GCF_015949305.1	Salmonella enterica		S99				From INSDC submitter	4704249	Contig	2020-12-10
+ASM1594932v1	GCF_015949325.1	Salmonella enterica		S96				From INSDC submitter	4903944	Contig	2020-12-10
+ASM1594934v1	GCF_015949345.1	Salmonella enterica		S93				From INSDC submitter	4508549	Contig	2020-12-10
+ASM1594935v1	GCF_015949355.1	Salmonella enterica		S94				From INSDC submitter	4671664	Contig	2020-12-10
+ASM1594936v1	GCF_015949365.1	Salmonella enterica		S92				From INSDC submitter	4768588	Contig	2020-12-10
+ASM1594937v1	GCF_015949375.1	Salmonella enterica		S90				From INSDC submitter	4626318	Contig	2020-12-10
+ASM1594942v1	GCF_015949425.1	Salmonella enterica		S82				From INSDC submitter	4567527	Contig	2020-12-10
+ASM1594944v1	GCF_015949445.1	Salmonella enterica		S86				From INSDC submitter	4804791	Contig	2020-12-10
+ASM1594945v1	GCF_015949455.1	Salmonella enterica		S80				From INSDC submitter	5096757	Contig	2020-12-10
+ASM1594947v1	GCF_015949475.1	Salmonella enterica		S70				From INSDC submitter	4780237	Contig	2020-12-10
+ASM1594948v1	GCF_015949485.1	Salmonella enterica		S75				From INSDC submitter	4932128	Contig	2020-12-10
+ASM1594952v1	GCF_015949525.1	Salmonella enterica		S69				From INSDC submitter	4563637	Contig	2020-12-10
+ASM1594954v1	GCF_015949545.1	Salmonella enterica		S68				From INSDC submitter	4872573	Contig	2020-12-10
+ASM1594956v1	GCF_015949565.1	Salmonella enterica		S65				From INSDC submitter	4851568	Contig	2020-12-10
+ASM1594957v1	GCF_015949575.1	Salmonella enterica		S67				From INSDC submitter	4564651	Contig	2020-12-10
+ASM1594959v1	GCF_015949595.1	Salmonella enterica		S66				From INSDC submitter	5438880	Contig	2020-12-10
+ASM1594962v1	GCF_015949625.1	Salmonella enterica		S64				From INSDC submitter	4726076	Contig	2020-12-10
+ASM1594964v1	GCF_015949645.1	Salmonella enterica		S63				From INSDC submitter	4753373	Contig	2020-12-10
+ASM1594966v1	GCF_015949665.1	Salmonella enterica		S62				From INSDC submitter	4737768	Contig	2020-12-10
+ASM1594969v1	GCF_015949695.1	Salmonella enterica		S59				From INSDC submitter	4958145	Contig	2020-12-10
+ASM1594972v1	GCF_015949725.1	Salmonella enterica		S53				From INSDC submitter	4741027	Contig	2020-12-10
+ASM1594974v1	GCF_015949745.1	Salmonella enterica		S52				From INSDC submitter	4560735	Contig	2020-12-10
+ASM1594976v1	GCF_015949765.1	Salmonella enterica		S40				From INSDC submitter	4757544	Contig	2020-12-10
+ASM1594977v1	GCF_015949775.1	Salmonella enterica		S38				From INSDC submitter	4868089	Contig	2020-12-10
+ASM1594979v1	GCF_015949795.1	Salmonella enterica		S39				From INSDC submitter	4568099	Contig	2020-12-10
+ASM1601742v1	GCF_016017425.1	Salmonella enterica		S85				From INSDC submitter	4755872	Contig	2020-12-14
+ASM1601744v1	GCF_016017445.1	Salmonella enterica		S84				From INSDC submitter	4756242	Contig	2020-12-14
+ASM1601745v1	GCF_016017455.1	Salmonella enterica		S83				From INSDC submitter	4847381	Contig	2020-12-14
+ASM1601747v1	GCF_016017475.1	Salmonella enterica		S82				From INSDC submitter	4840761	Contig	2020-12-14
+ASM1601751v1	GCF_016017515.1	Salmonella enterica		S81				From INSDC submitter	4903132	Contig	2020-12-14
+ASM1601752v1	GCF_016017525.1	Salmonella enterica		S79				From INSDC submitter	4747867	Contig	2020-12-14
+ASM1601755v1	GCF_016017555.1	Salmonella enterica		S80				From INSDC submitter	4753853	Contig	2020-12-14
+ASM1601756v1	GCF_016017565.1	Salmonella enterica		S78				From INSDC submitter	4705525	Contig	2020-12-14
+ASM1601758v1	GCF_016017585.1	Salmonella enterica		S77				From INSDC submitter	5061822	Contig	2020-12-14
+ASM1601761v1	GCF_016017615.1	Salmonella enterica		S76				From INSDC submitter	4746756	Contig	2020-12-14
+ASM1601762v1	GCF_016017625.1	Salmonella enterica		S75				From INSDC submitter	4754944	Contig	2020-12-14
+ASM1601765v1	GCF_016017655.1	Salmonella enterica		S74				From INSDC submitter	4755641	Contig	2020-12-14
+ASM1601766v1	GCF_016017665.1	Salmonella enterica		S73				From INSDC submitter	4750738	Contig	2020-12-14
+ASM1601767v1	GCF_016017675.1	Salmonella enterica		S72				From INSDC submitter	4748736	Contig	2020-12-14
+ASM1601771v1	GCF_016017715.1	Salmonella enterica		S71				From INSDC submitter	4746408	Contig	2020-12-14
+ASM1601772v1	GCF_016017725.1	Salmonella enterica		S70				From INSDC submitter	4751262	Contig	2020-12-14
+ASM1601775v1	GCF_016017755.1	Salmonella enterica		S69				From INSDC submitter	4751111	Contig	2020-12-14
+ASM1601776v1	GCF_016017765.1	Salmonella enterica		S67				From INSDC submitter	4757477	Contig	2020-12-14
+ASM1601778v1	GCF_016017785.1	Salmonella enterica		S68				From INSDC submitter	4751190	Contig	2020-12-14
+ASM1601781v1	GCF_016017815.1	Salmonella enterica		S66				From INSDC submitter	4747306	Contig	2020-12-14
+ASM1601782v1	GCF_016017825.1	Salmonella enterica		S65				From INSDC submitter	4757818	Contig	2020-12-14
+ASM1601785v1	GCF_016017855.1	Salmonella enterica		S64				From INSDC submitter	4843724	Contig	2020-12-14
+ASM1601786v1	GCF_016017865.1	Salmonella enterica		S60				From INSDC submitter	4750108	Contig	2020-12-14
+ASM1601788v1	GCF_016017885.1	Salmonella enterica		S63				From INSDC submitter	4798167	Contig	2020-12-14
+ASM1601791v1	GCF_016017915.1	Salmonella enterica		S61				From INSDC submitter	4750569	Contig	2020-12-14
+ASM1601792v1	GCF_016017925.1	Salmonella enterica		S59				From INSDC submitter	4751548	Contig	2020-12-14
+ASM1601794v1	GCF_016017945.1	Salmonella enterica		S57				From INSDC submitter	4736032	Contig	2020-12-14
+ASM1601797v1	GCF_016017975.1	Salmonella enterica		S56				From INSDC submitter	4756020	Contig	2020-12-14
+ASM1601798v1	GCF_016017985.1	Salmonella enterica		S54				From INSDC submitter	4705984	Contig	2020-12-14
+ASM1601801v1	GCF_016018015.1	Salmonella enterica		S53				From INSDC submitter	4692156	Contig	2020-12-14
+ASM1601803v1	GCF_016018035.1	Salmonella enterica		S52				From INSDC submitter	4757329	Contig	2020-12-14
+ASM1601804v1	GCF_016018045.1	Salmonella enterica		S51				From INSDC submitter	4706252	Contig	2020-12-14
+ASM1601805v1	GCF_016018055.1	Salmonella enterica		S50				From INSDC submitter	4941797	Contig	2020-12-14
+ASM1601807v1	GCF_016018075.1	Salmonella enterica		S49				From INSDC submitter	4756981	Contig	2020-12-14
+ASM1601811v1	GCF_016018115.1	Salmonella enterica		S48				From INSDC submitter	4757130	Contig	2020-12-14
+ASM1601813v1	GCF_016018135.1	Salmonella enterica		S47				From INSDC submitter	4749922	Contig	2020-12-14
+ASM1601814v1	GCF_016018145.1	Salmonella enterica		S46				From INSDC submitter	4749697	Contig	2020-12-14
+ASM1601815v1	GCF_016018155.1	Salmonella enterica		S45				From INSDC submitter	4792180	Contig	2020-12-14
+ASM1601817v1	GCF_016018175.1	Salmonella enterica		S44				From INSDC submitter	4756684	Contig	2020-12-14
+ASM1601821v1	GCF_016018215.1	Salmonella enterica		S43				From INSDC submitter	4735194	Contig	2020-12-14
+ASM1601823v1	GCF_016018235.1	Salmonella enterica		S42				From INSDC submitter	4750194	Contig	2020-12-14
+ASM1601825v1	GCF_016018255.1	Salmonella enterica		S40				From INSDC submitter	4734145	Contig	2020-12-14
+ASM1601826v1	GCF_016018265.1	Salmonella enterica		S41				From INSDC submitter	4749626	Contig	2020-12-14
+ASM1601827v1	GCF_016018275.1	Salmonella enterica		S39				From INSDC submitter	4753140	Contig	2020-12-14
+ASM1601831v1	GCF_016018315.1	Salmonella enterica		S38				From INSDC submitter	4735327	Contig	2020-12-14
+ASM1601832v1	GCF_016018325.1	Salmonella enterica		S37				From INSDC submitter	4750864	Contig	2020-12-14
+ASM1601835v1	GCF_016018355.1	Salmonella enterica		S35				From INSDC submitter	4757201	Contig	2020-12-14
+ASM1601836v1	GCF_016018365.1	Salmonella enterica		S34				From INSDC submitter	4706366	Contig	2020-12-14
+ASM1601837v1	GCF_016018375.1	Salmonella enterica		S36				From INSDC submitter	4705753	Contig	2020-12-14
+ASM1601841v1	GCF_016018415.1	Salmonella enterica		S33				From INSDC submitter	4706874	Contig	2020-12-14
+ASM1601842v1	GCF_016018425.1	Salmonella enterica		S32				From INSDC submitter	4747041	Contig	2020-12-14
+ASM1601844v1	GCF_016018445.1	Salmonella enterica		S31				From INSDC submitter	4737823	Contig	2020-12-14
+ASM1601845v1	GCF_016018455.1	Salmonella enterica		S29				From INSDC submitter	4756629	Contig	2020-12-14
+ASM1601847v1	GCF_016018475.1	Salmonella enterica		S30				From INSDC submitter	4750289	Contig	2020-12-14
+ASM1601851v1	GCF_016018515.1	Salmonella enterica		S28				From INSDC submitter	4756563	Contig	2020-12-14
+ASM1601852v1	GCF_016018525.1	Salmonella enterica		S27				From INSDC submitter	4751188	Contig	2020-12-14
+ASM1601855v1	GCF_016018555.1	Salmonella enterica		S24				From INSDC submitter	4755206	Contig	2020-12-14
+ASM1601856v1	GCF_016018565.1	Salmonella enterica		S26				From INSDC submitter	4754038	Contig	2020-12-14
+ASM1601857v1	GCF_016018575.1	Salmonella enterica		S25				From INSDC submitter	4749955	Contig	2020-12-14
+ASM1601861v1	GCF_016018615.1	Salmonella enterica		S22				From INSDC submitter	4759478	Contig	2020-12-14
+ASM1601862v1	GCF_016018625.1	Salmonella enterica		S23				From INSDC submitter	4744936	Contig	2020-12-14
+ASM1601865v1	GCF_016018655.1	Salmonella enterica		S19				From INSDC submitter	4750406	Contig	2020-12-14
+ASM1601866v1	GCF_016018665.1	Salmonella enterica		S21				From INSDC submitter	4702731	Contig	2020-12-14
+ASM1601868v1	GCF_016018685.1	Salmonella enterica		S20				From INSDC submitter	4705962	Contig	2020-12-14
+ASM1601871v1	GCF_016018715.1	Salmonella enterica		S17				From INSDC submitter	4744414	Contig	2020-12-14
+ASM1601872v1	GCF_016018725.1	Salmonella enterica		S18				From INSDC submitter	4912453	Contig	2020-12-14
+ASM1601875v1	GCF_016018755.1	Salmonella enterica		S16				From INSDC submitter	4804671	Contig	2020-12-14
+ASM1601876v1	GCF_016018765.1	Salmonella enterica		S15				From INSDC submitter	4758203	Contig	2020-12-14
+ASM1601877v1	GCF_016018775.1	Salmonella enterica		S14				From INSDC submitter	4753367	Contig	2020-12-14
+ASM1601881v1	GCF_016018815.1	Salmonella enterica		S12				From INSDC submitter	4751128	Contig	2020-12-14
+ASM1601882v1	GCF_016018825.1	Salmonella enterica		S13				From INSDC submitter	4756122	Contig	2020-12-14
+ASM1601885v1	GCF_016018855.1	Salmonella enterica		S11				From INSDC submitter	4743495	Contig	2020-12-14
+ASM1601886v1	GCF_016018865.1	Salmonella enterica		S9				From INSDC submitter	4756623	Contig	2020-12-14
+ASM1601887v1	GCF_016018875.1	Salmonella enterica		S10				From INSDC submitter	4757005	Contig	2020-12-14
+ASM1601891v1	GCF_016018915.1	Salmonella enterica		S8				From INSDC submitter	4746590	Contig	2020-12-14
+ASM1601892v1	GCF_016018925.1	Salmonella enterica		S7				From INSDC submitter	4703937	Contig	2020-12-14
+ASM1601895v1	GCF_016018955.1	Salmonella enterica		S6				From INSDC submitter	4846717	Contig	2020-12-14
+ASM1601897v1	GCF_016018975.1	Salmonella enterica		S4				From INSDC submitter	4706901	Contig	2020-12-14
+ASM1601898v1	GCF_016018985.1	Salmonella enterica		S5				From INSDC submitter	4758120	Contig	2020-12-14
+ASM1601901v1	GCF_016019015.1	Salmonella enterica		S3				From INSDC submitter	4758228	Contig	2020-12-14
+ASM1601902v1	GCF_016019025.1	Salmonella enterica		S2				From INSDC submitter	4704755	Contig	2020-12-14
+ASM1601905v1	GCF_016019055.1	Salmonella enterica		S1				From INSDC submitter	4864350	Contig	2020-12-14
+ASM1601946v1	GCF_016019465.1	Salmonella enterica		S207				From INSDC submitter	4894727	Contig	2020-12-14
+ASM1601948v1	GCF_016019485.1	Salmonella enterica		S187				From INSDC submitter	4904681	Contig	2020-12-14
+ASM1601951v1	GCF_016019515.1	Salmonella enterica		S185				From INSDC submitter	4905041	Contig	2020-12-14
+ASM1601953v1	GCF_016019535.1	Salmonella enterica		S183				From INSDC submitter	4907143	Contig	2020-12-14
+ASM1601954v1	GCF_016019545.1	Salmonella enterica		S172				From INSDC submitter	4702229	Contig	2020-12-14
+ASM1601956v1	GCF_016019565.1	Salmonella enterica		S170				From INSDC submitter	4893131	Contig	2020-12-14
+ASM1601957v1	GCF_016019575.1	Salmonella enterica		S167				From INSDC submitter	4831730	Contig	2020-12-14
+ASM1601961v1	GCF_016019615.1	Salmonella enterica		S164				From INSDC submitter	4835176	Contig	2020-12-14
+ASM1601963v1	GCF_016019635.1	Salmonella enterica		S140				From INSDC submitter	4996926	Contig	2020-12-14
+ASM1601965v1	GCF_016019655.1	Salmonella enterica		S91				From INSDC submitter	4621689	Contig	2020-12-14
+ASM1601966v1	GCF_016019665.1	Salmonella enterica		S83				From INSDC submitter	4934199	Contig	2020-12-14
+ASM1601967v1	GCF_016019675.1	Salmonella enterica		S74				From INSDC submitter	4721010	Contig	2020-12-14
+ASM1601971v1	GCF_016019715.1	Salmonella enterica		S72				From INSDC submitter	4753347	Contig	2020-12-14
+ASM1601973v1	GCF_016019735.1	Salmonella enterica		S71				From INSDC submitter	4863229	Contig	2020-12-14
+ASM1601975v1	GCF_016019755.1	Salmonella enterica		S61				From INSDC submitter	4747645	Contig	2020-12-14
+ASM1601976v1	GCF_016019765.1	Salmonella enterica		S58				From INSDC submitter	4890103	Contig	2020-12-14
+ASM1602671v1	GCF_016026715.1	Salmonella enterica		FDAARGOS_928				From INSDC submitter	4951410	Complete Genome	2020-12-14
+ASM1602849v1	GCF_016028495.1	Salmonella enterica		FDAARGOS_878				From INSDC submitter	4968720	Complete Genome	2020-12-14
+ASM1607119v1	GCF_016071195.1	Salmonella enterica		GX1006				From INSDC submitter	4944558	Complete Genome	2020-12-15
+ASM1611783v1	GCF_016117835.1	Salmonella enterica		FDAARGOS_879				From INSDC submitter	4801603	Chromosome	2020-12-19
+ASM1612743v1	GCF_016127435.1	Salmonella enterica		FDAARGOS_1067				From INSDC submitter	5067311	Complete Genome	2020-12-20
+ASM1612783v1	GCF_016127835.1	Salmonella enterica		FDAARGOS_1066				From INSDC submitter	4736480	Complete Genome	2020-12-20
+ASM1665712v1	GCF_016657125.1	Salmonella enterica		colony_17				From INSDC submitter	4557079	Chromosome	2021-01-18
+ASM1665726v1	GCF_016657265.1	Salmonella enterica		colony_14				From INSDC submitter	4550588	Chromosome	2021-01-18
+ASM1685822v1	GCF_016858225.1	Salmonella enterica		889B				From INSDC submitter	4672314	Scaffold	2021-02-09
+ASM1688964v1	GCF_016889645.1	Salmonella enterica		FDAARGOS_1271				From INSDC submitter	4804092	Complete Genome	2021-02-15
+ASM1691737v1	GCF_016917375.1	Salmonella enterica		Colony582				From INSDC submitter	4552700	Chromosome	2021-02-22
+ASM1691741v1	GCF_016917415.1	Salmonella enterica		Colony568				From INSDC submitter	4552575	Chromosome	2021-02-22
+ASM1691743v1	GCF_016917435.1	Salmonella enterica		Colony114				From INSDC submitter	4552699	Chromosome	2021-02-22
+ASM1691745v1	GCF_016917455.1	Salmonella enterica		Colony593				From INSDC submitter	4552879	Chromosome	2021-02-22
+ASM1691747v1	GCF_016917475.1	Salmonella enterica		Colony598				From INSDC submitter	4552575	Chromosome	2021-02-22
+ASM1691749v1	GCF_016917495.1	Salmonella enterica		Colony564				From INSDC submitter	4552574	Chromosome	2021-02-22
+ASM1691751v1	GCF_016917515.1	Salmonella enterica		Colony561				From INSDC submitter	4552880	Chromosome	2021-02-22
+ASM1691755v1	GCF_016917555.1	Salmonella enterica		Colony539				From INSDC submitter	4552574	Chromosome	2021-02-22
+ASM1691759v1	GCF_016917595.1	Salmonella enterica		Colony118				From INSDC submitter	4552700	Chromosome	2021-02-22
+ASM1691761v1	GCF_016917615.1	Salmonella enterica		Colony117				From INSDC submitter	4552699	Chromosome	2021-02-22
+ASM1691763v1	GCF_016917635.1	Salmonella enterica		Colony116				From INSDC submitter	4552700	Chromosome	2021-02-22
+ASM1691765v1	GCF_016917655.1	Salmonella enterica		Colony14				From INSDC submitter	4550964	Chromosome	2021-02-22
+ASM1691767v1	GCF_016917675.1	Salmonella enterica		Colony589				From INSDC submitter	4552575	Chromosome	2021-02-22
+ASM1691769v1	GCF_016917695.1	Salmonella enterica		Colony627				From INSDC submitter	4551211	Chromosome	2021-02-22
+ASM1691771v1	GCF_016917715.1	Salmonella enterica		Colony626				From INSDC submitter	4552524	Chromosome	2021-02-22
+ASM1691773v1	GCF_016917735.1	Salmonella enterica		Colony596				From INSDC submitter	4574276	Chromosome	2021-02-22
+ASM1716213v1	GCF_017162135.1	Salmonella enterica		20REF-1022				From INSDC submitter	4786678	Contig	2021-03-03
+ASM1716214v1	GCF_017162145.1	Salmonella enterica		20REF-627				From INSDC submitter	4778515	Contig	2021-03-03
+ASM1716215v1	GCF_017162155.1	Salmonella enterica		20REF-20				From INSDC submitter	4781073	Contig	2021-03-03
+ASM1716217v1	GCF_017162175.1	Salmonella enterica		20REF-991				From INSDC submitter	4779174	Contig	2021-03-03
+ASM1716221v1	GCF_017162215.1	Salmonella enterica		20REF-1018				From INSDC submitter	4780243	Contig	2021-03-03
+ASM1716223v1	GCF_017162235.1	Salmonella enterica		20REF-1017				From INSDC submitter	4774988	Contig	2021-03-03
+ASM1716225v1	GCF_017162255.1	Salmonella enterica		N19-2676				From INSDC submitter	4779956	Contig	2021-03-03
+ASM1716226v1	GCF_017162265.1	Salmonella enterica		20-REF-1023				From INSDC submitter	4780375	Contig	2021-03-03
+ASM1716228v1	GCF_017162285.1	Salmonella enterica		N20-2737				From INSDC submitter	4787949	Contig	2021-03-03
+ASM1716230v1	GCF_017162305.1	Salmonella enterica		N19-2675				From INSDC submitter	4781953	Contig	2021-03-03
+ASM1716233v1	GCF_017162335.1	Salmonella enterica		N19-2672				From INSDC submitter	4781041	Contig	2021-03-03
+ASM1716235v1	GCF_017162355.1	Salmonella enterica		N19-2674				From INSDC submitter	4780191	Contig	2021-03-03
+ASM1716237v1	GCF_017162375.1	Salmonella enterica		N19-2673				From INSDC submitter	4780566	Contig	2021-03-03
+ASM1716239v1	GCF_017162395.1	Salmonella enterica		N19-2605				From INSDC submitter	4782067	Contig	2021-03-03
+ASM1731628v1	GCF_017316285.1	Salmonella enterica		2018103				From INSDC submitter	4565442	Contig	2021-03-10
+ASM1774273v1	GCF_017742735.1	Salmonella enterica		105703				From INSDC submitter	4734933	Contig	2021-04-03
+ASM1794224v1	GCF_017942245.1	Salmonella enterica		2018_SM1002				From INSDC submitter	4908731	Contig	2021-04-13
+ASM1813987v1	GCF_018139875.1	Salmonella enterica		31				From INSDC submitter	4817138	Scaffold	2021-04-25
+ASM1813992v1	GCF_018139925.1	Salmonella enterica		3				From INSDC submitter	4862699	Scaffold	2021-04-25
+ASM1814000v1	GCF_018140005.1	Salmonella enterica		62				From INSDC submitter	4922966	Contig	2021-04-25
+ASM1814003v1	GCF_018140035.1	Salmonella enterica		4				From INSDC submitter	5039655	Scaffold	2021-04-25
+ASM1846004v1	GCF_018460045.1	Salmonella enterica		no75				From INSDC submitter	5282580	Complete Genome	2021-05-24
+ASM1926494v1	GCF_019264945.1	Salmonella enterica		Colony628				From INSDC submitter	4575198	Chromosome	2021-07-18
+ASM1933942v1	GCF_019339425.1	Salmonella enterica		LHICA_E3				From INSDC submitter	5081513	Complete Genome	2021-07-26
+ASM1942846v1	GCF_019428465.1	Salmonella enterica		SLR1_8245				From INSDC submitter	4829815	Complete Genome	2021-07-31
+ASM1945881v1	GCF_019458815.1	Salmonella enterica		SC-Z1910-0003				From INSDC submitter	4926500	Scaffold	2021-08-08
+ASM1945884v1	GCF_019458845.1	Salmonella enterica		SC-Z1910-0001				From INSDC submitter	4976207	Scaffold	2021-08-08
+ASM1945886v1	GCF_019458865.1	Salmonella enterica		SC-Z1910-0006				From INSDC submitter	4974538	Scaffold	2021-08-08
+ASM1945888v1	GCF_019458885.1	Salmonella enterica		SC-Z1910-0002				From INSDC submitter	4925159	Scaffold	2021-08-08
+ASM1945890v1	GCF_019458905.1	Salmonella enterica		SC-Z1910-0007				From INSDC submitter	4927020	Scaffold	2021-08-08
+ASM1945892v1	GCF_019458925.1	Salmonella enterica		SC-Z1910-0005				From INSDC submitter	4732260	Scaffold	2021-08-08
+ASM1945893v1	GCF_019458935.1	Salmonella enterica		SC-Z1910-0009				From INSDC submitter	4789125	Scaffold	2021-08-08
+ASM1945896v1	GCF_019458965.1	Salmonella enterica		SC-Z1910-0010				From INSDC submitter	4929535	Scaffold	2021-08-08
+ASM1945897v1	GCF_019458975.1	Salmonella enterica		SC-Z1910-0004				From INSDC submitter	4926039	Scaffold	2021-08-08
+ASM1945898v1	GCF_019458985.1	Salmonella enterica		SC-Z1910-0008				From INSDC submitter	4726278	Scaffold	2021-08-08
+ASM1946948v1	GCF_019469485.1	Salmonella enterica		SCSW714				From INSDC submitter	4928262	Complete Genome	2021-08-09
+ASM1971037v1	GCF_019710375.1	Salmonella enterica		sg1722-1				From INSDC submitter	4976071	Complete Genome	2021-08-21
+ASM1971039v1	GCF_019710395.1	Salmonella enterica		sg1722-2				From INSDC submitter	5019039	Complete Genome	2021-08-21
+ASM1971039v3	GCF_019710395.2	Salmonella enterica		sg1722-2				From INSDC submitter	5019039	Complete Genome	2021-12-13
+ASM1996919v1	GCF_019969195.1	Salmonella enterica		S146				From INSDC submitter	4867588	Complete Genome	2021-09-14
+ASM1996923v1	GCF_019969235.1	Salmonella enterica		SP				From INSDC submitter	5091026	Complete Genome	2021-09-14
+ASM1996925v1	GCF_019969255.1	Salmonella enterica		S90				From INSDC submitter	4928267	Complete Genome	2021-09-14
+ASM1998500v1	GCF_019985005.1	Salmonella enterica		SG13				From INSDC submitter	4836174	Scaffold	2021-09-14
+ASM1998502v1	GCF_019985025.1	Salmonella enterica		SG8				From INSDC submitter	4831958	Scaffold	2021-09-14
+ASM1998503v1	GCF_019985035.1	Salmonella enterica		SG12				From INSDC submitter	5233942	Scaffold	2021-09-14
+ASM1998508v1	GCF_019985085.1	Salmonella enterica		SG7				From INSDC submitter	4836294	Scaffold	2021-09-14
+ASM1998511v1	GCF_019985115.1	Salmonella enterica		SG5				From INSDC submitter	4835888	Scaffold	2021-09-14
+ASM1998512v1	GCF_019985125.1	Salmonella enterica		SG6				From INSDC submitter	4825616	Scaffold	2021-09-14
+ASM1998515v1	GCF_019985155.1	Salmonella enterica		SG4				From INSDC submitter	4826973	Scaffold	2021-09-14
+ASM1998517v1	GCF_019985175.1	Salmonella enterica		SG3				From INSDC submitter	4826954	Scaffold	2021-09-14
+ASM2000244v1	GCF_020002445.1	Salmonella enterica		S1A18				From INSDC submitter	4788006	Contig	2021-09-15
+ASM2000246v1	GCF_020002465.1	Salmonella enterica		SX170				From INSDC submitter	5179283	Contig	2021-09-15
+ASM2000247v1	GCF_020002475.1	Salmonella enterica		S1B1				From INSDC submitter	4994497	Contig	2021-09-15
+ASM2000252v1	GCF_020002525.1	Salmonella enterica		S1B7				From INSDC submitter	5000307	Contig	2021-09-15
+ASM2000254v1	GCF_020002545.1	Salmonella enterica		S1B16				From INSDC submitter	4986710	Contig	2021-09-15
+ASM2000256v1	GCF_020002565.1	Salmonella enterica		S1B18				From INSDC submitter	4986408	Contig	2021-09-15
+ASM2000258v1	GCF_020002585.1	Salmonella enterica		S1B211				From INSDC submitter	4986919	Contig	2021-09-15
+ASM2000261v1	GCF_020002615.1	Salmonella enterica		S1B24				From INSDC submitter	4990444	Contig	2021-09-15
+ASM2000263v1	GCF_020002635.1	Salmonella enterica		S251				From INSDC submitter	4999439	Contig	2021-09-15
+ASM2000265v1	GCF_020002655.1	Salmonella enterica		S290				From INSDC submitter	4983341	Contig	2021-09-15
+ASM2000267v1	GCF_020002675.1	Salmonella enterica		S265				From INSDC submitter	4968435	Contig	2021-09-15
+ASM2000269v1	GCF_020002695.1	Salmonella enterica		S291				From INSDC submitter	4987587	Contig	2021-09-15
+ASM2000271v1	GCF_020002715.1	Salmonella enterica		S34				From INSDC submitter	4798885	Contig	2021-09-15
+ASM2000273v1	GCF_020002735.1	Salmonella enterica		S350				From INSDC submitter	4733890	Contig	2021-09-15
+ASM2000275v1	GCF_020002755.1	Salmonella enterica		SX167				From INSDC submitter	5034003	Contig	2021-09-15
+ASM2000277v1	GCF_020002775.1	Salmonella enterica		SX115				From INSDC submitter	5031660	Contig	2021-09-15
+ASM2000278v1	GCF_020002785.1	Salmonella enterica		SX132				From INSDC submitter	5034634	Contig	2021-09-15
+ASM2000279v1	GCF_020002795.1	Salmonella enterica		SX135				From INSDC submitter	5136906	Contig	2021-09-15
+ASM2000283v1	GCF_020002835.1	Salmonella enterica		SX191				From INSDC submitter	4794258	Contig	2021-09-15
+ASM2000285v1	GCF_020002855.1	Salmonella enterica		SX149				From INSDC submitter	5159906	Contig	2021-09-15
+ASM2000287v1	GCF_020002875.1	Salmonella enterica		SX259				From INSDC submitter	4736982	Contig	2021-09-15
+ASM2000290v1	GCF_020002905.1	Salmonella enterica		SX196				From INSDC submitter	5037822	Contig	2021-09-15
+ASM2000292v1	GCF_020002925.1	Salmonella enterica		SX158				From INSDC submitter	5158897	Contig	2021-09-15
+ASM2000294v1	GCF_020002945.1	Salmonella enterica		S19Sen				From INSDC submitter	5170279	Contig	2021-09-15
+ASM2000296v1	GCF_020002965.1	Salmonella enterica		SX171				From INSDC submitter	5162757	Contig	2021-09-15
+ASM2000298v1	GCF_020002985.1	Salmonella enterica		SX113				From INSDC submitter	5167003	Contig	2021-09-15
+ASM2000300v1	GCF_020003005.1	Salmonella enterica		SX188				From INSDC submitter	5136772	Contig	2021-09-15
+ASM2000302v1	GCF_020003025.1	Salmonella enterica		SG6				From INSDC submitter	4761532	Scaffold	2021-09-15
+ASM2000303v1	GCF_020003035.1	Salmonella enterica		SG4				From INSDC submitter	4850271	Scaffold	2021-09-15
+ASM2000306v1	GCF_020003065.1	Salmonella enterica		SG5				From INSDC submitter	4850166	Scaffold	2021-09-15
+ASM2000307v1	GCF_020003075.1	Salmonella enterica		SG3				From INSDC submitter	4838566	Scaffold	2021-09-15
+ASM2000308v1	GCF_020003085.1	Salmonella enterica		SG7				From INSDC submitter	4838612	Scaffold	2021-09-15
+ASM2000318v1	GCF_020003185.1	Salmonella enterica		S31				From INSDC submitter	5059900	Scaffold	2021-09-15
+ASM2000319v1	GCF_020003195.1	Salmonella enterica		S30				From INSDC submitter	4584478	Scaffold	2021-09-15
+ASM2000320v1	GCF_020003205.1	Salmonella enterica		S28				From INSDC submitter	4828850	Scaffold	2021-09-15
+ASM2000321v1	GCF_020003215.1	Salmonella enterica		S29				From INSDC submitter	4963326	Scaffold	2021-09-15
+ASM2000326v1	GCF_020003265.1	Salmonella enterica		S33				From INSDC submitter	4676490	Scaffold	2021-09-15
+ASM2000328v1	GCF_020003285.1	Salmonella enterica		S27				From INSDC submitter	5040727	Scaffold	2021-09-15
+ASM2000329v1	GCF_020003295.1	Salmonella enterica		S24				From INSDC submitter	4828112	Scaffold	2021-09-15
+ASM2000332v1	GCF_020003325.1	Salmonella enterica		S25				From INSDC submitter	5071520	Scaffold	2021-09-15
+ASM2000334v1	GCF_020003345.1	Salmonella enterica		S26				From INSDC submitter	4724851	Scaffold	2021-09-15
+ASM2000336v1	GCF_020003365.1	Salmonella enterica		S23				From INSDC submitter	4965193	Scaffold	2021-09-15
+ASM2000338v1	GCF_020003385.1	Salmonella enterica		S21				From INSDC submitter	5071253	Scaffold	2021-09-15
+ASM2000339v1	GCF_020003395.1	Salmonella enterica		S22				From INSDC submitter	4801783	Scaffold	2021-09-15
+ASM2000340v1	GCF_020003405.1	Salmonella enterica		S20				From INSDC submitter	5071210	Scaffold	2021-09-15
+ASM2000341v1	GCF_020003415.1	Salmonella enterica		S19				From INSDC submitter	4724750	Scaffold	2021-09-15
+ASM2000346v1	GCF_020003465.1	Salmonella enterica		S18				From INSDC submitter	5069838	Scaffold	2021-09-15
+ASM2000348v1	GCF_020003485.1	Salmonella enterica		S15				From INSDC submitter	5071152	Scaffold	2021-09-15
+ASM2000349v1	GCF_020003495.1	Salmonella enterica		S17				From INSDC submitter	4824487	Scaffold	2021-09-15
+ASM2000350v1	GCF_020003505.1	Salmonella enterica		S14				From INSDC submitter	5071467	Scaffold	2021-09-15
+ASM2000352v1	GCF_020003525.1	Salmonella enterica		S13				From INSDC submitter	5070536	Scaffold	2021-09-15
+ASM2000356v1	GCF_020003565.1	Salmonella enterica		S16				From INSDC submitter	5711791	Scaffold	2021-09-15
+ASM2000358v1	GCF_020003585.1	Salmonella enterica		S12				From INSDC submitter	4608369	Scaffold	2021-09-15
+ASM2000359v1	GCF_020003595.1	Salmonella enterica		S11				From INSDC submitter	5071509	Scaffold	2021-09-15
+ASM2000362v1	GCF_020003625.1	Salmonella enterica		S6				From INSDC submitter	4828992	Scaffold	2021-09-15
+ASM2000363v1	GCF_020003635.1	Salmonella enterica		S7				From INSDC submitter	4672856	Scaffold	2021-09-15
+ASM2000366v1	GCF_020003665.1	Salmonella enterica		S9				From INSDC submitter	4829181	Scaffold	2021-09-15
+ASM2000368v1	GCF_020003685.1	Salmonella enterica		S5				From INSDC submitter	4673205	Scaffold	2021-09-15
+ASM2000370v1	GCF_020003705.1	Salmonella enterica		S3				From INSDC submitter	5069655	Scaffold	2021-09-15
+ASM2000372v1	GCF_020003725.1	Salmonella enterica		S1				From INSDC submitter	4732837	Scaffold	2021-09-15
+ASM2000373v1	GCF_020003735.1	Salmonella enterica		S2				From INSDC submitter	5071394	Scaffold	2021-09-15
+ASM2000374v1	GCF_020003745.1	Salmonella enterica		S4				From INSDC submitter	5071081	Scaffold	2021-09-15
+ASM2001205v1	GCF_020012055.1	Salmonella enterica		S32				From INSDC submitter	5061770	Scaffold	2021-09-16
+ASM2009274v1	GCF_020092745.1	Salmonella enterica		FUA10060				From INSDC submitter	4592820	Contig	2021-09-22
+ASM2009275v1	GCF_020092755.1	Salmonella enterica		FUA1998				From INSDC submitter	4635556	Contig	2021-09-22
+ASM2009278v1	GCF_020092785.1	Salmonella enterica		FUA10098				From INSDC submitter	4699022	Contig	2021-09-22
+ASM2009280v1	GCF_020092805.1	Salmonella enterica		FUA10108				From INSDC submitter	4631440	Contig	2021-09-22
+ASM2009281v1	GCF_020092815.1	Salmonella enterica		FUA10109				From INSDC submitter	4720632	Contig	2021-09-22
+ASM2009284v1	GCF_020092845.1	Salmonella enterica		FUA1976				From INSDC submitter	4635427	Contig	2021-09-22
+ASM2009286v1	GCF_020092865.1	Salmonella enterica		FUA1903				From INSDC submitter	4684479	Contig	2021-09-22
+ASM2009288v1	GCF_020092885.1	Salmonella enterica		FUA1894				From INSDC submitter	4698909	Contig	2021-09-22
+ASM2017625v1	GCF_020176255.1	Salmonella enterica		F2-32				From INSDC submitter	5241379	Contig	2021-09-29
+ASM2017627v1	GCF_020176275.1	Salmonella enterica		F2-24				From INSDC submitter	5239642	Contig	2021-09-29
+ASM2017628v1	GCF_020176285.1	Salmonella enterica		WW14				From INSDC submitter	4729549	Contig	2021-09-29
+ASM2017630v1	GCF_020176305.1	Salmonella enterica		F2-15				From INSDC submitter	5241313	Contig	2021-09-29
+ASM2017633v1	GCF_020176335.1	Salmonella enterica		WW60				From INSDC submitter	4730251	Contig	2021-09-29
+ASM2017635v1	GCF_020176355.1	Salmonella enterica		WW4				From INSDC submitter	4728896	Contig	2021-09-29
+ASM2017637v1	GCF_020176375.1	Salmonella enterica		LHE 6				From INSDC submitter	5235241	Contig	2021-09-29
+ASM2017639v1	GCF_020176395.1	Salmonella enterica		LHE 10				From INSDC submitter	5242506	Contig	2021-09-29
+ASM2017640v1	GCF_020176405.1	Salmonella enterica		L5-36				From INSDC submitter	5327092	Contig	2021-09-29
+ASM2017643v1	GCF_020176435.1	Salmonella enterica		L5-39				From INSDC submitter	5327765	Contig	2021-09-29
+ASM2017645v1	GCF_020176455.1	Salmonella enterica		L5-3				From INSDC submitter	5328595	Contig	2021-09-29
+ASM2017647v1	GCF_020176475.1	Salmonella enterica		CR25				From INSDC submitter	5241454	Contig	2021-09-29
+ASM2017649v1	GCF_020176495.1	Salmonella enterica		F5-29				From INSDC submitter	5329118	Contig	2021-09-29
+ASM2017650v1	GCF_020176505.1	Salmonella enterica		F5-9				From INSDC submitter	5327651	Contig	2021-09-29
+ASM2017652v1	GCF_020176525.1	Salmonella enterica		CR51				From INSDC submitter	5241824	Contig	2021-09-29
+ASM2017655v1	GCF_020176555.1	Salmonella enterica		CR14				From INSDC submitter	4768207	Contig	2021-09-29
+ASM2017657v1	GCF_020176575.1	Salmonella enterica		L3-27				From INSDC submitter	5240595	Contig	2021-09-29
+ASM2017658v1	GCF_020176585.1	Salmonella enterica		L3-31				From INSDC submitter	5241830	Contig	2021-09-29
+ASM2017661v1	GCF_020176615.1	Salmonella enterica		LB23				From INSDC submitter	5230588	Contig	2021-09-29
+ASM2018173v1	GCF_020181735.1	Salmonella enterica		LSP 40/19				From INSDC submitter	5388503	Scaffold	2021-09-30
+ASM2018175v1	GCF_020181755.1	Salmonella enterica		LSP 38/19				From INSDC submitter	5415950	Scaffold	2021-09-30
+ASM2021547v1	GCF_020215475.1	Salmonella enterica		LSP 298/15				From INSDC submitter	5020760	Scaffold	2021-10-01
+ASM2021550v1	GCF_020215505.1	Salmonella enterica		LSP 295/15				From INSDC submitter	4931502	Scaffold	2021-10-01
+ASM2021554v1	GCF_020215545.1	Salmonella enterica		LSP 237/15				From INSDC submitter	5082055	Scaffold	2021-10-01
+ASM2029572v1	GCF_020295725.1	Salmonella enterica		287				From INSDC submitter	4906163	Contig	2021-10-05
+ASM2029575v1	GCF_020295755.1	Salmonella enterica		LB18				From INSDC submitter	5221189	Contig	2021-10-05
+ASM2029576v1	GCF_020295765.1	Salmonella enterica		122				From INSDC submitter	4907300	Contig	2021-10-05
+ASM2029582v1	GCF_020295825.1	Salmonella enterica		137				From INSDC submitter	4906049	Contig	2021-10-05
+ASM2029584v1	GCF_020295845.1	Salmonella enterica		105				From INSDC submitter	4897468	Contig	2021-10-05
+ASM2029590v1	GCF_020295905.1	Salmonella enterica		108				From INSDC submitter	4905439	Contig	2021-10-05
+ASM2029592v1	GCF_020295925.1	Salmonella enterica		160				From INSDC submitter	4907180	Contig	2021-10-05
+ASM2029594v1	GCF_020295945.1	Salmonella enterica		74				From INSDC submitter	4905739	Contig	2021-10-05
+ASM2029596v1	GCF_020295965.1	Salmonella enterica		260				From INSDC submitter	4897290	Contig	2021-10-05
+ASM2029598v1	GCF_020295985.1	Salmonella enterica		152				From INSDC submitter	4905996	Contig	2021-10-05
+ASM2029600v1	GCF_020296005.1	Salmonella enterica		149				From INSDC submitter	4906102	Contig	2021-10-05
+ASM2029601v1	GCF_020296015.1	Salmonella enterica		205				From INSDC submitter	4907351	Contig	2021-10-05
+ASM2029604v1	GCF_020296045.1	Salmonella enterica		161				From INSDC submitter	4905845	Contig	2021-10-05
+ASM2029610v1	GCF_020296105.1	Salmonella enterica		F2-16				From INSDC submitter	5221422	Contig	2021-10-05
+ASM2029616v1	GCF_020296165.1	Salmonella enterica		257				From INSDC submitter	4907332	Contig	2021-10-05
+ASM2029620v1	GCF_020296205.1	Salmonella enterica		216				From INSDC submitter	4907681	Contig	2021-10-05
+ASM2029624v1	GCF_020296245.1	Salmonella enterica		139				From INSDC submitter	4906814	Contig	2021-10-05
+ASM2029628v1	GCF_020296285.1	Salmonella enterica		336				From INSDC submitter	4906032	Contig	2021-10-05
+ASM2029629v1	GCF_020296295.1	Salmonella enterica		LB30				From INSDC submitter	5220512	Contig	2021-10-05
+ASM2029632v1	GCF_020296325.1	Salmonella enterica		F5-10				From INSDC submitter	5305189	Contig	2021-10-05
+ASM2029634v1	GCF_020296345.1	Salmonella enterica		F5-8				From INSDC submitter	5306092	Contig	2021-10-05
+ASM2029636v1	GCF_020296365.1	Salmonella enterica		146				From INSDC submitter	4906315	Contig	2021-10-05
+ASM2029637v1	GCF_020296375.1	Salmonella enterica		66				From INSDC submitter	4906108	Contig	2021-10-05
+ASM2029640v1	GCF_020296405.1	Salmonella enterica		F2-25				From INSDC submitter	5221953	Contig	2021-10-05
+ASM2029642v1	GCF_020296425.1	Salmonella enterica		F2-33				From INSDC submitter	5225515	Contig	2021-10-05
+ASM2029644v1	GCF_020296445.1	Salmonella enterica		CR26				From INSDC submitter	5219580	Contig	2021-10-05
+ASM2029645v1	GCF_020296455.1	Salmonella enterica		185				From INSDC submitter	4905493	Contig	2021-10-05
+ASM2029648v1	GCF_020296485.1	Salmonella enterica		250				From INSDC submitter	4906652	Contig	2021-10-05
+ASM2029650v1	GCF_020296505.1	Salmonella enterica		LB47				From INSDC submitter	5221221	Contig	2021-10-05
+ASM2029652v1	GCF_020296525.1	Salmonella enterica		LB19				From INSDC submitter	5221906	Contig	2021-10-05
+ASM2029653v1	GCF_020296535.1	Salmonella enterica		LB17				From INSDC submitter	5222009	Contig	2021-10-05
+ASM2029656v1	GCF_020296565.1	Salmonella enterica		LB20				From INSDC submitter	5221724	Contig	2021-10-05
+ASM2029658v1	GCF_020296585.1	Salmonella enterica		LB1				From INSDC submitter	5220798	Contig	2021-10-05
+ASM2029660v1	GCF_020296605.1	Salmonella enterica		LB16				From INSDC submitter	5218365	Contig	2021-10-05
+ASM2029663v1	GCF_020296635.1	Salmonella enterica		F2-21				From INSDC submitter	5219610	Contig	2021-10-05
+ASM2029666v1	GCF_020296665.1	Salmonella enterica		F2-2				From INSDC submitter	5221419	Contig	2021-10-05
+ASM2029668v1	GCF_020296685.1	Salmonella enterica		LB31				From INSDC submitter	5219539	Contig	2021-10-05
+ASM2029670v1	GCF_020296705.1	Salmonella enterica		F2-27				From INSDC submitter	5221918	Contig	2021-10-05
+ASM2029671v1	GCF_020296715.1	Salmonella enterica		LB32				From INSDC submitter	5221042	Contig	2021-10-05
+ASM2029674v1	GCF_020296745.1	Salmonella enterica		LS4				From INSDC submitter	5221635	Contig	2021-10-05
+ASM2029676v1	GCF_020296765.1	Salmonella enterica		F2-13				From INSDC submitter	5220133	Contig	2021-10-05
+ASM2029678v1	GCF_020296785.1	Salmonella enterica		F2-6				From INSDC submitter	5221690	Contig	2021-10-05
+ASM2029680v1	GCF_020296805.1	Salmonella enterica		F2-9				From INSDC submitter	5221925	Contig	2021-10-05
+ASM2029682v1	GCF_020296825.1	Salmonella enterica		F2-11				From INSDC submitter	5221789	Contig	2021-10-05
+ASM2029683v1	GCF_020296835.1	Salmonella enterica		F5-22				From INSDC submitter	5305210	Contig	2021-10-05
+ASM2029686v1	GCF_020296865.1	Salmonella enterica		L5-11				From INSDC submitter	5304399	Contig	2021-10-05
+ASM2029688v1	GCF_020296885.1	Salmonella enterica		LB29				From INSDC submitter	5219586	Contig	2021-10-05
+ASM2029690v1	GCF_020296905.1	Salmonella enterica		270				From INSDC submitter	4907006	Contig	2021-10-05
+ASM2029691v1	GCF_020296915.1	Salmonella enterica		L3-26				From INSDC submitter	5221112	Contig	2021-10-05
+ASM2029694v1	GCF_020296945.1	Salmonella enterica		F2-29				From INSDC submitter	5217324	Contig	2021-10-05
+ASM2029696v1	GCF_020296965.1	Salmonella enterica		L3-29				From INSDC submitter	5221209	Contig	2021-10-05
+ASM2029698v1	GCF_020296985.1	Salmonella enterica		L3-6				From INSDC submitter	5221640	Contig	2021-10-05
+ASM2029700v1	GCF_020297005.1	Salmonella enterica		L3-11				From INSDC submitter	5221630	Contig	2021-10-05
+ASM2029702v1	GCF_020297025.1	Salmonella enterica		335				From INSDC submitter	4907292	Contig	2021-10-05
+ASM2040414v1	GCF_020404145.1	Salmonella enterica		TKBSJL1				From INSDC submitter	4860251	Contig	2021-10-09
+ASM2040415v1	GCF_020404155.1	Salmonella enterica		TKBSJL3				From INSDC submitter	4865984	Contig	2021-10-09
+ASM2040417v1	GCF_020404175.1	Salmonella enterica		TKBSJL5				From INSDC submitter	4940306	Contig	2021-10-09
+ASM2040420v1	GCF_020404205.1	Salmonella enterica		TKBSJL4				From INSDC submitter	4808270	Contig	2021-10-09
+ASM2040465v1	GCF_020404655.1	Salmonella enterica		TKBSJL7				From INSDC submitter	4809678	Contig	2021-10-09
+ASM2040468v1	GCF_020404685.1	Salmonella enterica		TKBSJL2				From INSDC submitter	4861056	Contig	2021-10-09
+ASM2044389v1	GCF_020443895.1	Salmonella enterica		10				From INSDC submitter	4731804	Contig	2021-10-13
+ASM2051547v1	GCF_020515475.1	Salmonella enterica		TKBSJL6				From INSDC submitter	4944562	Contig	2021-10-17
+ASM2073630v1	GCF_020736305.1	Salmonella enterica		SZL 31				From INSDC submitter	5023097	Complete Genome	2021-11-03
+ASM2073632v1	GCF_020736325.1	Salmonella enterica		SZL 30				From INSDC submitter	5016201	Complete Genome	2021-11-03
+ASM2073634v1	GCF_020736345.1	Salmonella enterica		SZL 38				From INSDC submitter	5131948	Complete Genome	2021-11-03
+ASM2127632v1	GCF_021276325.1	Salmonella enterica		Crie-F503				From INSDC submitter	4975403	Contig	2021-12-23
+ASM2127635v1	GCF_021276355.1	Salmonella enterica		Crie-F512				From INSDC submitter	4969122	Scaffold	2021-12-23
+ASM2127638v1	GCF_021276385.1	Salmonella enterica		Crie-F522				From INSDC submitter	4926160	Scaffold	2021-12-23
+ASM2127640v1	GCF_021276405.1	Salmonella enterica		Crie-F510				From INSDC submitter	4976990	Scaffold	2021-12-23
+ASM2127644v1	GCF_021276445.1	Salmonella enterica		Crie-F509				From INSDC submitter	4966734	Scaffold	2021-12-23
+ASM2127646v1	GCF_021276465.1	Salmonella enterica		Crie-F508				From INSDC submitter	4965655	Scaffold	2021-12-23
+ASM2127648v1	GCF_021276485.1	Salmonella enterica		Crie-F506				From INSDC submitter	4927351	Scaffold	2021-12-23
+ASM2127650v1	GCF_021276505.1	Salmonella enterica		Crie-F489				From INSDC submitter	4996965	Scaffold	2021-12-23
+ASM2127652v1	GCF_021276525.1	Salmonella enterica		Crie-F470				From INSDC submitter	4963805	Scaffold	2021-12-23
+ASM2127654v1	GCF_021276545.1	Salmonella enterica		Crie-F469				From INSDC submitter	4928219	Scaffold	2021-12-23
+ASM2127656v1	GCF_021276565.1	Salmonella enterica		Crie-F468				From INSDC submitter	5004054	Scaffold	2021-12-23
+ASM2127658v1	GCF_021276585.1	Salmonella enterica		Crie-F448				From INSDC submitter	4948534	Scaffold	2021-12-23
+ASM2127660v1	GCF_021276605.1	Salmonella enterica		Crie-F446				From INSDC submitter	4964995	Scaffold	2021-12-23
+ASM2127662v1	GCF_021276625.1	Salmonella enterica		Crie-F445				From INSDC submitter	4964747	Scaffold	2021-12-23
+ASM2127664v1	GCF_021276645.1	Salmonella enterica		Crie-F444				From INSDC submitter	4964560	Scaffold	2021-12-23
+ASM2127666v1	GCF_021276665.1	Salmonella enterica		Crie-F443				From INSDC submitter	4964335	Scaffold	2021-12-23
+ASM2127668v1	GCF_021276685.1	Salmonella enterica		Crie-F418				From INSDC submitter	4969383	Scaffold	2021-12-23
+ASM2127670v1	GCF_021276705.1	Salmonella enterica		Crie-F441				From INSDC submitter	4965985	Scaffold	2021-12-23
+ASM2127672v1	GCF_021276725.1	Salmonella enterica		Crie-F411				From INSDC submitter	4933336	Scaffold	2021-12-23
+ASM2127673v1	GCF_021276735.1	Salmonella enterica		Crie-F410				From INSDC submitter	4973116	Scaffold	2021-12-23
+ASM2127676v1	GCF_021276765.1	Salmonella enterica		Crie-F417				From INSDC submitter	4969472	Scaffold	2021-12-23
+ASM2127678v1	GCF_021276785.1	Salmonella enterica		Crie-F396				From INSDC submitter	4962747	Scaffold	2021-12-23
+ASM2127680v1	GCF_021276805.1	Salmonella enterica		Crie-F403				From INSDC submitter	4979506	Scaffold	2021-12-23
+ASM2127682v1	GCF_021276825.1	Salmonella enterica		Crie-F392				From INSDC submitter	4995240	Scaffold	2021-12-23
+ASM2127684v1	GCF_021276845.1	Salmonella enterica		Crie-F394				From INSDC submitter	4931025	Scaffold	2021-12-23
+ASM2127686v1	GCF_021276865.1	Salmonella enterica		Crie-F393				From INSDC submitter	4936095	Scaffold	2021-12-23
+ASM2127688v1	GCF_021276885.1	Salmonella enterica		Crie-F391				From INSDC submitter	4934816	Scaffold	2021-12-23
+ASM2127690v1	GCF_021276905.1	Salmonella enterica		Crie-F386				From INSDC submitter	4937813	Scaffold	2021-12-23
+ASM2127692v1	GCF_021276925.1	Salmonella enterica		Crie-F261				From INSDC submitter	5250386	Scaffold	2021-12-23
+ASM2127694v1	GCF_021276945.1	Salmonella enterica		Crie-F260				From INSDC submitter	4966646	Scaffold	2021-12-23
+ASM2127696v1	GCF_021276965.1	Salmonella enterica		Crie-F259				From INSDC submitter	4967873	Scaffold	2021-12-23
+ASM2127697v1	GCF_021276975.1	Salmonella enterica		Crie-F339				From INSDC submitter	4972749	Scaffold	2021-12-23
+ASM2127700v1	GCF_021277005.1	Salmonella enterica		Crie-F254				From INSDC submitter	4957521	Scaffold	2021-12-23
+ASM2127702v1	GCF_021277025.1	Salmonella enterica		Crie-F257				From INSDC submitter	4924943	Scaffold	2021-12-23
+ASM2127704v1	GCF_021277045.1	Salmonella enterica		Crie-F252				From INSDC submitter	4966357	Scaffold	2021-12-23
+ASM2127706v1	GCF_021277065.1	Salmonella enterica		Crie-F247				From INSDC submitter	4967363	Scaffold	2021-12-23
+ASM2127708v1	GCF_021277085.1	Salmonella enterica		Crie-F244				From INSDC submitter	5251155	Scaffold	2021-12-23
+ASM2127709v1	GCF_021277095.1	Salmonella enterica		Crie-F245				From INSDC submitter	4934205	Scaffold	2021-12-23
+ASM2127712v1	GCF_021277125.1	Salmonella enterica		Crie-F243				From INSDC submitter	4933568	Scaffold	2021-12-23
+ASM2127714v1	GCF_021277145.1	Salmonella enterica		Crie-F241				From INSDC submitter	4974814	Scaffold	2021-12-23
+ASM2127716v1	GCF_021277165.1	Salmonella enterica		Crie-F192				From INSDC submitter	4962668	Scaffold	2021-12-23
+ASM2127718v1	GCF_021277185.1	Salmonella enterica		Crie-F191				From INSDC submitter	5034556	Scaffold	2021-12-23
+ASM2127720v1	GCF_021277205.1	Salmonella enterica		Crie-F207				From INSDC submitter	5084921	Scaffold	2021-12-23
+ASM2127721v1	GCF_021277215.1	Salmonella enterica		Crie-F87				From INSDC submitter	4968355	Scaffold	2021-12-23
+ASM2127724v1	GCF_021277245.1	Salmonella enterica		Crie-F81				From INSDC submitter	4992253	Scaffold	2021-12-23
+NZ_Salmonella_enterica_MC1	GCF_901212535.1	Salmonella enterica				Salmonella_enterica_MC1		From INSDC submitter	4699902	Scaffold	2019-05-29
+UHGG_MGYG-HGUT-02366	GCF_902386395.1	Salmonella enterica				MGYG-HGUT-02366		From INSDC submitter	4955431	Contig	2019-08-16
+1942_14	GCF_903930835.1	Salmonella enterica				1942_14		From INSDC submitter	5115682	Contig	2020-07-20
+1503_08	GCF_903930845.1	Salmonella enterica				1503_08		From INSDC submitter	4600229	Contig	2020-07-20
+3220_14	GCF_903930855.1	Salmonella enterica				3220_14		From INSDC submitter	5069097	Contig	2020-07-20
+02958_13	GCF_903930865.1	Salmonella enterica				02958_13		From INSDC submitter	4722749	Scaffold	2020-07-20
+9710_11	GCF_903930875.1	Salmonella enterica				9710_11		From INSDC submitter	4734706	Contig	2020-07-20
+0559_17	GCF_903930885.1	Salmonella enterica				0559_17		From INSDC submitter	4717659	Contig	2020-07-20
+1004_07	GCF_903930895.1	Salmonella enterica				1004_07		From INSDC submitter	4494059	Contig	2020-07-20
+1820_14	GCF_903930915.1	Salmonella enterica				1820_14		From INSDC submitter	5096251	Contig	2020-07-20
+1521_08	GCF_903930925.1	Salmonella enterica				1521_08		From INSDC submitter	4599974	Contig	2020-07-20
+12276_11	GCF_903930945.1	Salmonella enterica				12276_11		From INSDC submitter	5256065	Scaffold	2020-07-20
+4289_14	GCF_903930965.1	Salmonella enterica				4289_14		From INSDC submitter	4815372	Scaffold	2020-07-20
+4178_15	GCF_903930985.1	Salmonella enterica				4178_15		From INSDC submitter	4600330	Scaffold	2020-07-20
+1920_14	GCF_903930995.1	Salmonella enterica				1920_14		From INSDC submitter	5225852	Scaffold	2020-07-20
+3252_14	GCF_903931005.1	Salmonella enterica				3252_14		From INSDC submitter	4666893	Contig	2020-07-20
+2460_13	GCF_903931015.1	Salmonella enterica				2460_13		From INSDC submitter	4561986	Scaffold	2020-07-20
+1169_07	GCF_903931045.1	Salmonella enterica				1169_07		From INSDC submitter	4566267	Contig	2020-07-20
+27696_12	GCF_903931055.1	Salmonella enterica				27696_12		From INSDC submitter	4682495	Scaffold	2020-07-20
+1020_09	GCF_903931065.1	Salmonella enterica				1020_09		From INSDC submitter	4593322	Scaffold	2020-07-20
+4159_15	GCF_903931075.1	Salmonella enterica				4159_15		From INSDC submitter	4655789	Contig	2020-07-20
+2933_14	GCF_903931085.1	Salmonella enterica				2933_14		From INSDC submitter	4872173	Scaffold	2020-07-20
+4278_06	GCF_903931095.1	Salmonella enterica				4278_06		From INSDC submitter	4659717	Scaffold	2020-07-20
+3653_13	GCF_903931105.1	Salmonella enterica				3653_13		From INSDC submitter	4591610	Scaffold	2020-07-20
+3332_18	GCF_903931115.1	Salmonella enterica				3332_18		From INSDC submitter	4726341	Contig	2020-07-20
+1585_17	GCF_903931125.1	Salmonella enterica				1585_17		From INSDC submitter	4672995	Contig	2020-07-20
+2742_14	GCF_903931135.1	Salmonella enterica				2742_14		From INSDC submitter	4752053	Scaffold	2020-07-20
+3541_16	GCF_903931145.1	Salmonella enterica				3541_16		From INSDC submitter	4772738	Contig	2020-07-20
+0664_15	GCF_903931155.1	Salmonella enterica				0664_15		From INSDC submitter	4569878	Scaffold	2020-07-20
+0347_07	GCF_903931165.1	Salmonella enterica				0347_07		From INSDC submitter	4854089	Contig	2020-07-20
+1967_08	GCF_903931195.1	Salmonella enterica				1967_08		From INSDC submitter	4760031	Scaffold	2020-07-20
+4165_15	GCF_903931215.1	Salmonella enterica				4165_15		From INSDC submitter	4660237	Scaffold	2020-07-20
+1156_08	GCF_903931225.1	Salmonella enterica				1156_08		From INSDC submitter	4766794	Contig	2020-07-20
+5400_08	GCF_903931235.1	Salmonella enterica				5400_08		From INSDC submitter	4774580	Contig	2020-07-20
+9063_11	GCF_903931245.1	Salmonella enterica				9063_11		From INSDC submitter	4665429	Scaffold	2020-07-20
+0286_09	GCF_903931265.1	Salmonella enterica				0286_09		From INSDC submitter	4789287	Contig	2020-07-20
+1427_09	GCF_903931275.1	Salmonella enterica				1427_09		From INSDC submitter	4801697	Contig	2020-07-20
+2214_18	GCF_903931285.1	Salmonella enterica				2214_18		From INSDC submitter	4719723	Contig	2020-07-20
+1076_01	GCF_903931295.1	Salmonella enterica				1076_01		From INSDC submitter	4693650	Scaffold	2020-07-20
+8876_10	GCF_903931305.1	Salmonella enterica				8876_10		From INSDC submitter	4726710	Scaffold	2020-07-20
+4585_16	GCF_903931315.1	Salmonella enterica				4585_16		From INSDC submitter	4810344	Contig	2020-07-20
+1221_07	GCF_903931335.1	Salmonella enterica				1221_07		From INSDC submitter	4737185	Contig	2020-07-20
+1058_09	GCF_903931345.1	Salmonella enterica				1058_09		From INSDC submitter	4801907	Scaffold	2020-07-20
+0796_06	GCF_903931365.1	Salmonella enterica				0796_06		From INSDC submitter	4859547	Scaffold	2020-07-20
+4586_10	GCF_903931375.1	Salmonella enterica				4586_10		From INSDC submitter	4686001	Scaffold	2020-07-20
+3183_18	GCF_903931385.1	Salmonella enterica				3183_18		From INSDC submitter	4881681	Contig	2020-07-20
+3610_17	GCF_903931395.1	Salmonella enterica				3610_17		From INSDC submitter	4732098	Contig	2020-07-20
+1789_17	GCF_903931405.1	Salmonella enterica				1789_17		From INSDC submitter	4700881	Contig	2020-07-20
+3485_17	GCF_903931415.1	Salmonella enterica				3485_17		From INSDC submitter	4732173	Contig	2020-07-20
+0065_14	GCF_903931425.1	Salmonella enterica				0065_14		From INSDC submitter	4735450	Scaffold	2020-07-20
+3625_14	GCF_903931435.1	Salmonella enterica				3625_14		From INSDC submitter	4795565	Scaffold	2020-07-20
+0493_07	GCF_903931445.1	Salmonella enterica				0493_07		From INSDC submitter	4706018	Contig	2020-07-20
+4025_16	GCF_903931455.1	Salmonella enterica				4025_16		From INSDC submitter	4692474	Scaffold	2020-07-20
+4030_15	GCF_903931465.1	Salmonella enterica				4030_15		From INSDC submitter	4723443	Contig	2020-07-20
+0527_01	GCF_903931475.1	Salmonella enterica				0527_01		From INSDC submitter	4765286	Contig	2020-07-20
+0008_01	GCF_903931495.1	Salmonella enterica				0008_01		From INSDC submitter	4705113	Scaffold	2020-07-20
+8078_01	GCF_903931515.1	Salmonella enterica				8078_01		From INSDC submitter	4751006	Scaffold	2020-07-20
+1004_01	GCF_903931525.1	Salmonella enterica				1004_01		From INSDC submitter	4748080	Scaffold	2020-07-20
+4310_15	GCF_903931535.1	Salmonella enterica				4310_15		From INSDC submitter	4707534	Scaffold	2020-07-20
+0378_01	GCF_903931545.1	Salmonella enterica				0378_01		From INSDC submitter	4754911	Contig	2020-07-20
+0851_15	GCF_903931555.1	Salmonella enterica				0851_15		From INSDC submitter	4980272	Scaffold	2020-07-20
+8190_01	GCF_903931565.1	Salmonella enterica				8190_01		From INSDC submitter	4713960	Scaffold	2020-07-20
+10136_01	GCF_903931575.1	Salmonella enterica				10136_01		From INSDC submitter	4737813	Contig	2020-07-20
+8729_01	GCF_903931585.1	Salmonella enterica				8729_01		From INSDC submitter	4806896	Scaffold	2020-07-20
+6650_01	GCF_903931595.1	Salmonella enterica				6650_01		From INSDC submitter	5368048	Contig	2020-07-20
+10136_02	GCF_903931605.1	Salmonella enterica				10136_02		From INSDC submitter	4803395	Scaffold	2020-07-20
+0220_17	GCF_903931625.1	Salmonella enterica				0220_17		From INSDC submitter	4823607	Contig	2020-07-20
+5423_17	GCF_903931635.1	Salmonella enterica				5423_17		From INSDC submitter	4823360	Contig	2020-07-20
+4273_17	GCF_903931655.1	Salmonella enterica				4273_17		From INSDC submitter	4872872	Contig	2020-07-20
+4516_14	GCF_903931665.1	Salmonella enterica				4516_14		From INSDC submitter	5118063	Contig	2020-07-20
+2408_13	GCF_903931675.1	Salmonella enterica				2408_13		From INSDC submitter	4859479	Contig	2020-07-20
+1342_06	GCF_903931685.1	Salmonella enterica				1342_06		From INSDC submitter	4893982	Contig	2020-07-20
+0253_01	GCF_903931695.1	Salmonella enterica				0253_01		From INSDC submitter	4810919	Contig	2020-07-20
+4589_06	GCF_903931705.1	Salmonella enterica				4589_06		From INSDC submitter	4873792	Contig	2020-07-20
+0197_14	GCF_903931715.1	Salmonella enterica				0197_14		From INSDC submitter	4866292	Contig	2020-07-20
+0165_14	GCF_903931725.1	Salmonella enterica				0165_14		From INSDC submitter	4811644	Contig	2020-07-20
+0176_14	GCF_903931745.1	Salmonella enterica				0176_14		From INSDC submitter	4865522	Contig	2020-07-20
+4948_17	GCF_903931755.1	Salmonella enterica				4948_17		From INSDC submitter	4918639	Contig	2020-07-20
+0781_01	GCF_903931765.1	Salmonella enterica				0781_01		From INSDC submitter	4825469	Scaffold	2020-07-20
+1177_07	GCF_903931785.1	Salmonella enterica				1177_07		From INSDC submitter	4850170	Contig	2020-07-20
+1921_14	GCF_903931795.1	Salmonella enterica				1921_14		From INSDC submitter	4865014	Contig	2020-07-20
+4519_14	GCF_903931805.1	Salmonella enterica				4519_14		From INSDC submitter	4921707	Scaffold	2020-07-20
+0189_01	GCF_903931815.1	Salmonella enterica				0189_01		From INSDC submitter	4856689	Contig	2020-07-20
+8696_10	GCF_903931845.1	Salmonella enterica				8696_10		From INSDC submitter	4820031	Scaffold	2020-07-20
+3009_16	GCF_903931855.1	Salmonella enterica				3009_16		From INSDC submitter	4840839	Contig	2020-07-20
+3970_15	GCF_903931865.1	Salmonella enterica				3970_15		From INSDC submitter	4841076	Contig	2020-07-20
+0123_01	GCF_903931875.1	Salmonella enterica				0123_01		From INSDC submitter	5096326	Contig	2020-07-20
+8488_01	GCF_903931885.1	Salmonella enterica				8488_01		From INSDC submitter	4857126	Scaffold	2020-07-20
+2385_01	GCF_903931895.1	Salmonella enterica				2385_01		From INSDC submitter	4824900	Scaffold	2020-07-20
+3276_18	GCF_903931925.1	Salmonella enterica				3276_18		From INSDC submitter	4914836	Contig	2020-07-20
+3978_17	GCF_903931965.1	Salmonella enterica				3978_17		From INSDC submitter	4898001	Contig	2020-07-20
+0171_18	GCF_903931995.1	Salmonella enterica				0171_18		From INSDC submitter	4822661	Contig	2020-07-20
+0289_15	GCF_913082355.1	Salmonella enterica				0289_15		From INSDC submitter	4688992	Scaffold	2021-08-18
+5797_16	GCF_913082375.1	Salmonella enterica				5797_16		From INSDC submitter	4865274	Contig	2021-08-18
+1142_15	GCF_913082385.1	Salmonella enterica				1142_15		From INSDC submitter	4677285	Scaffold	2021-08-18
+ASM165238v2	GCA_001652385.2	Salmonella enterica		CFSAN033950				From INSDC submitter	4930422	Complete Genome	2021-06-07
+ASM183155v2	GCA_001831555.2	Salmonella enterica		CFSAN044865				From INSDC submitter	5084052	Complete Genome	2021-06-07
+ASM183171v2	GCA_001831715.2	Salmonella enterica		CFSAN044875				From INSDC submitter	5004869	Complete Genome	2021-06-07
+ASM183191v2	GCA_001831915.2	Salmonella enterica		CFSAN044885				From INSDC submitter	4879725	Complete Genome	2021-06-07
+ASM183198v2	GCA_001831985.2	Salmonella enterica		CFSAN044888				From INSDC submitter	4892473	Complete Genome	2021-06-10
+ASM183330v2	GCA_001833305.2	Salmonella enterica		CFSAN044925				From INSDC submitter	4754349	Complete Genome	2021-06-07
+ASM183496v2	GCA_001834965.2	Salmonella enterica		CFSAN044945				From INSDC submitter	5008883	Complete Genome	2021-06-07
+ASM250771v2	GCA_002507715.2	Salmonella enterica		CFSAN064276				From INSDC submitter	4806207	Complete Genome	2021-06-07
+ASM250774v2	GCA_002507745.2	Salmonella enterica		CFSAN060808				From INSDC submitter	4660570	Complete Genome	2021-06-07
+ASM250786v2	GCA_002507865.2	Salmonella enterica		CFSAN060809				From INSDC submitter	4484627	Complete Genome	2021-06-07
+ASM250787v2	GCA_002507875.2	Salmonella enterica		CFSAN060807				From INSDC submitter	4753965	Complete Genome	2021-06-07
+ASM250791v2	GCA_002507915.2	Salmonella enterica		CFSAN060804				From INSDC submitter	4902428	Complete Genome	2021-06-07
+PDT000396397.2	GCA_003737065.2	Salmonella enterica		PNUSAS057737				From INSDC submitter	4549679	Contig	2020-09-15
+PDT000403032.2	GCA_003769185.2	Salmonella enterica		PNUSAS060004				From INSDC submitter	4536564	Contig	2020-09-15
+PDT000403021.2	GCA_003769605.2	Salmonella enterica		PNUSAS060011				From INSDC submitter	4677375	Contig	2020-09-15
+PDT000403041.2	GCA_003769715.2	Salmonella enterica		PNUSAS060013				From INSDC submitter	4593656	Contig	2020-09-15
+PDT000403067.2	GCA_003769985.2	Salmonella enterica		PNUSAS060008				From INSDC submitter	4537116	Contig	2020-09-15
+PDT000403024.2	GCA_003771005.2	Salmonella enterica		PNUSAS060009				From INSDC submitter	4632225	Contig	2020-09-15
+PDT000403022.2	GCA_003771185.2	Salmonella enterica		PNUSAS060017				From INSDC submitter	4558074	Contig	2020-09-15
+PDT000403042.2	GCA_003771205.2	Salmonella enterica		PNUSAS060015				From INSDC submitter	4693485	Contig	2020-09-15
+PDT000403052.2	GCA_003771265.2	Salmonella enterica		PNUSAS060014				From INSDC submitter	4657856	Contig	2020-09-15
+PDT000403059.2	GCA_003771335.2	Salmonella enterica		PNUSAS060012				From INSDC submitter	4725797	Contig	2020-09-15
+PDT000403020.2	GCA_003776985.2	Salmonella enterica		PNUSAS060006				From INSDC submitter	4795861	Contig	2020-09-15
+PDT000403050.2	GCA_003779045.2	Salmonella enterica		PNUSAS060007				From INSDC submitter	4701731	Contig	2020-09-15
+PDT000403028.2	GCA_003788285.2	Salmonella enterica		PNUSAS060005				From INSDC submitter	4537508	Contig	2020-09-15
+PDT000403038.2	GCA_003788335.2	Salmonella enterica		PNUSAS060003				From INSDC submitter	4536968	Contig	2020-09-15
+PDT000310425.4	GCA_003870155.2	Salmonella enterica		FDA856989-2				From INSDC submitter	4499665	Contig	2020-09-15
+ASM387221v2	GCA_003872215.2	Salmonella enterica		CFSAN029939				From INSDC submitter	5183854	Complete Genome	2021-05-24
+ASM387239v2	GCA_003872395.2	Salmonella enterica		CFSAN029945				From INSDC submitter	4680419	Complete Genome	2021-05-24
+ASM387262v2	GCA_003872625.2	Salmonella enterica		CFSAN029895				From INSDC submitter	4991210	Complete Genome	2021-06-07
+PDT000388097.3	GCA_003896295.2	Salmonella enterica		TTU_266				From INSDC submitter	4945388	Contig	2020-09-15
+ASM411823v1	GCA_004118235.1	Salmonella enterica		CFSAN074583				From INSDC submitter	4794820	Contig	2019-01-29
+ASM411839v1	GCA_004118395.1	Salmonella enterica		CFSAN074596				From INSDC submitter	4756562	Contig	2019-01-29
+ASM411840v1	GCA_004118405.1	Salmonella enterica		CFSAN074588				From INSDC submitter	4803491	Contig	2019-01-29
+ASM411843v1	GCA_004118435.1	Salmonella enterica		CFSAN074591				From INSDC submitter	4926195	Contig	2019-01-29
+ASM411845v1	GCA_004118455.1	Salmonella enterica		CFSAN074587				From INSDC submitter	4806721	Contig	2019-01-29
+ASM411846v1	GCA_004118465.1	Salmonella enterica		CFSAN074594				From INSDC submitter	4922997	Contig	2019-01-29
+ASM411849v1	GCA_004118495.1	Salmonella enterica		CFSAN074586				From INSDC submitter	4806918	Contig	2019-01-29
+ASM411851v1	GCA_004118515.1	Salmonella enterica		CFSAN074590				From INSDC submitter	4903768	Contig	2019-01-29
+ASM411852v1	GCA_004118525.1	Salmonella enterica		CFSAN074589				From INSDC submitter	4805072	Contig	2019-01-29
+ASM411855v1	GCA_004118555.1	Salmonella enterica		CFSAN074582				From INSDC submitter	4806002	Contig	2019-01-29
+ASM411859v1	GCA_004118595.1	Salmonella enterica		CFSAN074592				From INSDC submitter	4920624	Contig	2019-01-29
+ASM411869v1	GCA_004118695.1	Salmonella enterica		CFSAN074576				From INSDC submitter	4843178	Contig	2019-01-29
+ASM411870v1	GCA_004118705.1	Salmonella enterica		CFSAN074556				From INSDC submitter	4756686	Contig	2019-01-29
+ASM411871v1	GCA_004118715.1	Salmonella enterica		CFSAN074577				From INSDC submitter	4845591	Contig	2019-01-29
+ASM411874v1	GCA_004118745.1	Salmonella enterica		CFSAN074557				From INSDC submitter	4759636	Contig	2019-01-29
+ASM411875v1	GCA_004118755.1	Salmonella enterica		CFSAN074558				From INSDC submitter	4759746	Contig	2019-01-29
+ASM411879v1	GCA_004118795.1	Salmonella enterica		CFSAN074560				From INSDC submitter	4753739	Contig	2019-01-29
+ASM411881v1	GCA_004118815.1	Salmonella enterica		CFSAN074554				From INSDC submitter	4919721	Contig	2019-01-29
+ASM411882v1	GCA_004118825.1	Salmonella enterica		CFSAN074555				From INSDC submitter	4763990	Contig	2019-01-29
+ASM411903v1	GCA_004119035.1	Salmonella enterica		CFSAN074597				From INSDC submitter	4765619	Contig	2019-01-29
+ASM411904v1	GCA_004119045.1	Salmonella enterica		CFSAN074593				From INSDC submitter	4924920	Contig	2019-01-29
+ASM411906v1	GCA_004119065.1	Salmonella enterica		CFSAN074598				From INSDC submitter	4762025	Contig	2019-01-29
+ASM411907v1	GCA_004119075.1	Salmonella enterica		CFSAN074584				From INSDC submitter	4804792	Contig	2019-01-29
+ASM411908v1	GCA_004119085.1	Salmonella enterica		CFSAN074595				From INSDC submitter	4760056	Contig	2019-01-29
+ASM411913v1	GCA_004119135.1	Salmonella enterica		CFSAN074578				From INSDC submitter	4847731	Contig	2019-01-29
+ASM411915v1	GCA_004119155.1	Salmonella enterica		CFSAN074559				From INSDC submitter	4763715	Contig	2019-01-29
+ASM412055v1	GCA_004120555.1	Salmonella enterica		192_17				From INSDC submitter	4538441	Contig	2019-01-30
+ASM412057v1	GCA_004120575.1	Salmonella enterica		72_18				From INSDC submitter	4836364	Contig	2019-01-30
+ASM412058v1	GCA_004120585.1	Salmonella enterica		170_17				From INSDC submitter	4785391	Contig	2019-01-30
+ASM412059v1	GCA_004120595.1	Salmonella enterica		185_14				From INSDC submitter	4720925	Contig	2019-01-30
+ASM412065v1	GCA_004120655.1	Salmonella enterica		169_11				From INSDC submitter	4689775	Contig	2019-01-30
+ASM412070v1	GCA_004120705.1	Salmonella enterica		192_16				From INSDC submitter	4686759	Contig	2019-01-30
+ASM412071v1	GCA_004120715.1	Salmonella enterica		470_11				From INSDC submitter	4731530	Contig	2019-01-30
+ASM412075v1	GCA_004120755.1	Salmonella enterica		148_14				From INSDC submitter	4742673	Contig	2019-01-30
+ASM412076v1	GCA_004120765.1	Salmonella enterica		189_13				From INSDC submitter	4699593	Contig	2019-01-30
+ASM412077v1	GCA_004120775.1	Salmonella enterica		194_17				From INSDC submitter	4625704	Contig	2019-01-30
+ASM412078v1	GCA_004120785.1	Salmonella enterica		72_15				From INSDC submitter	4732743	Contig	2019-01-30
+ASM412083v1	GCA_004120835.1	Salmonella enterica		166_11				From INSDC submitter	4713338	Contig	2019-01-30
+ASM412085v1	GCA_004120855.1	Salmonella enterica		21_17				From INSDC submitter	4594154	Contig	2019-01-30
+ASM412163v1	GCA_004121635.1	Salmonella enterica		133_16				From INSDC submitter	4868949	Contig	2019-01-30
+ASM412164v1	GCA_004121645.1	Salmonella enterica		112_16				From INSDC submitter	4687576	Contig	2019-01-30
+ASM412167v1	GCA_004121675.1	Salmonella enterica		173_17				From INSDC submitter	4723605	Contig	2019-01-30
+ASM412171v1	GCA_004121715.1	Salmonella enterica		169_17				From INSDC submitter	4787769	Contig	2019-01-30
+ASM413583v1	GCA_004135835.1	Salmonella enterica		FORC_078				From INSDC submitter	4745355	Complete Genome	2019-02-04
+PDT000315734.1	GCA_004156355.1	Salmonella enterica		CNSV-T13-MD04-10-TT-A				From INSDC submitter	4963025	Contig	2019-02-11
+PDT000315474.1	GCA_004156375.1	Salmonella enterica		CFSAN080867				From INSDC submitter	4731292	Contig	2019-02-11
+PDT000315742.1	GCA_004156385.1	Salmonella enterica		CFSAN080948				From INSDC submitter	4620253	Contig	2019-02-11
+PDT000315745.1	GCA_004156395.1	Salmonella enterica		CFSAN080899				From INSDC submitter	4840663	Contig	2019-02-11
+PDT000315998.1	GCA_004156455.1	Salmonella enterica		CFSAN080879				From INSDC submitter	4620413	Contig	2019-02-11
+PDT000315749.1	GCA_004156475.1	Salmonella enterica		CFSAN080890				From INSDC submitter	4762704	Contig	2019-02-11
+PDT000315735.1	GCA_004156495.1	Salmonella enterica		CFSAN080946				From INSDC submitter	4730399	Contig	2019-02-11
+PDT000315774.1	GCA_004156535.1	Salmonella enterica		CFSAN080938				From INSDC submitter	4738678	Contig	2019-02-11
+PDT000315946.1	GCA_004157295.1	Salmonella enterica		CFSAN080958				From INSDC submitter	4761429	Contig	2019-02-11
+PDT000315739.1	GCA_004157395.1	Salmonella enterica		CFSAN080943				From INSDC submitter	4803823	Contig	2019-02-11
+PDT000316825.1	GCA_004157415.1	Salmonella enterica		CFSAN080465				From INSDC submitter	4675123	Contig	2019-02-11
+PDT000316815.1	GCA_004157755.1	Salmonella enterica		CFSAN080882				From INSDC submitter	5069849	Contig	2019-02-11
+PDT000319417.1	GCA_004158555.1	Salmonella enterica		FDA1051827-001-001				From INSDC submitter	4673831	Contig	2019-02-11
+PDT000320792.1	GCA_004161335.1	Salmonella enterica		CFSAN081696				From INSDC submitter	4759664	Contig	2019-02-11
+PDT000320774.1	GCA_004161395.1	Salmonella enterica		CFSAN081716				From INSDC submitter	5120874	Contig	2019-02-11
+PDT000320800.1	GCA_004161455.1	Salmonella enterica		CFSAN081715				From INSDC submitter	4790574	Contig	2019-02-11
+PDT000323602.1	GCA_004162595.1	Salmonella enterica		CFSAN081783				From INSDC submitter	4795923	Contig	2019-02-11
+PDT000323804.1	GCA_004162635.1	Salmonella enterica		TXAML1800574				From INSDC submitter	4693267	Contig	2019-02-11
+PDT000323806.1	GCA_004162755.1	Salmonella enterica		CFSAN070901				From INSDC submitter	4877897	Contig	2019-02-11
+PDT000323598.1	GCA_004163025.1	Salmonella enterica		CFSAN081784				From INSDC submitter	5101757	Contig	2019-02-11
+PDT000323800.1	GCA_004163075.1	Salmonella enterica		TXAML1800655				From INSDC submitter	4944297	Contig	2019-02-11
+PDT000325616.1	GCA_004164375.1	Salmonella enterica		CDPHFDLB-F07M00385-2				From INSDC submitter	5115707	Contig	2019-02-11
+PDT000325536.1	GCA_004164385.1	Salmonella enterica		CFSAN081813				From INSDC submitter	4805930	Contig	2019-02-11
+PDT000325014.1	GCA_004166275.1	Salmonella enterica		ADRDL-1925				From INSDC submitter	4702649	Contig	2019-02-11
+PDT000326066.1	GCA_004173595.1	Salmonella enterica		CFSAN081804				From INSDC submitter	4779054	Contig	2019-02-12
+PDT000326038.1	GCA_004173765.1	Salmonella enterica		CFSAN081807				From INSDC submitter	4690780	Contig	2019-02-12
+PDT000328676.1	GCA_004174055.1	Salmonella enterica		TXAML1800668				From INSDC submitter	4727656	Contig	2019-02-12
+PDT000328690.1	GCA_004174355.1	Salmonella enterica		CFSAN081969				From INSDC submitter	4567229	Contig	2019-02-12
+PDT000329049.1	GCA_004174435.1	Salmonella enterica		CFSAN081975				From INSDC submitter	4850309	Contig	2019-02-12
+PDT000328674.1	GCA_004174445.1	Salmonella enterica		ADRDL-1936				From INSDC submitter	4948279	Contig	2019-02-12
+PDT000328444.1	GCA_004174475.1	Salmonella enterica		FDA1051921-S001-001				From INSDC submitter	4920298	Contig	2019-02-12
+PDT000328685.1	GCA_004174495.1	Salmonella enterica		NC_0215368_5				From INSDC submitter	4911260	Contig	2019-02-12
+PDT000329036.1	GCA_004174515.1	Salmonella enterica		CFSAN081966				From INSDC submitter	4626510	Contig	2019-02-12
+PDT000328700.1	GCA_004175275.1	Salmonella enterica		CFSAN081965				From INSDC submitter	4638778	Contig	2019-02-12
+PDT000329053.1	GCA_004175325.1	Salmonella enterica		CFSAN081972				From INSDC submitter	4759352	Contig	2019-02-12
+PDT000326032.1	GCA_004176135.1	Salmonella enterica		CDPHFDLB-F07M00397-2				From INSDC submitter	5150656	Contig	2019-02-12
+PDT000328620.1	GCA_004177085.1	Salmonella enterica		ADRDL-1945				From INSDC submitter	4914639	Contig	2019-02-12
+PDT000328624.1	GCA_004177175.1	Salmonella enterica		CFSAN081982				From INSDC submitter	4718758	Contig	2019-02-12
+PDT000333112.1	GCA_004179685.1	Salmonella enterica		TTU_101				From INSDC submitter	4851160	Contig	2019-02-12
+PDT000333079.1	GCA_004179745.1	Salmonella enterica		CFSAN082325				From INSDC submitter	4724602	Contig	2019-02-12
+PDT000333235.1	GCA_004179855.1	Salmonella enterica		TTU_063				From INSDC submitter	4620258	Contig	2019-02-12
+PDT000332684.1	GCA_004180325.1	Salmonella enterica		CFSAN082333				From INSDC submitter	4767935	Contig	2019-02-12
+PDT000332677.1	GCA_004180995.1	Salmonella enterica		TTU_123				From INSDC submitter	4832721	Contig	2019-02-12
+PDT000333243.1	GCA_004181435.1	Salmonella enterica		TTU_051				From INSDC submitter	4688422	Contig	2019-02-12
+PDT000333725.1	GCA_004182135.1	Salmonella enterica		TTU_091				From INSDC submitter	4970566	Contig	2019-02-12
+PDT000333581.1	GCA_004182295.1	Salmonella enterica		CFSAN082344				From INSDC submitter	5073660	Contig	2019-02-12
+PDT000334825.1	GCA_004182315.1	Salmonella enterica		CFSAN082365				From INSDC submitter	4815764	Contig	2019-02-12
+PDT000334669.1	GCA_004182355.1	Salmonella enterica		CFSAN082361				From INSDC submitter	5127480	Contig	2019-02-12
+PDT000333657.1	GCA_004182415.1	Salmonella enterica		TTU_071				From INSDC submitter	4644830	Contig	2019-02-12
+PDT000334167.1	GCA_004182455.1	Salmonella enterica		TTU_069				From INSDC submitter	4609596	Contig	2019-02-12
+PDT000235823.3	GCA_004183275.1	Salmonella enterica		FDA1019344-051-001				From INSDC submitter	4817956	Contig	2019-02-12
+PDT000002773.5	GCA_004185275.1	Salmonella enterica		FNE0004				From INSDC submitter	4747186	Contig	2019-02-12
+PDT000085328.6	GCA_004185285.1	Salmonella enterica		FDA918904				From INSDC submitter	4971506	Contig	2019-02-12
+PDT000295781.4	GCA_004185495.1	Salmonella enterica		FDA1042390-S001-022				From INSDC submitter	4573033	Contig	2019-02-12
+PDT000336568.1	GCA_004186205.1	Salmonella enterica		CFSAN082355				From INSDC submitter	4635901	Contig	2019-02-12
+PDT000336706.1	GCA_004186305.1	Salmonella enterica		FDA939169-1				From INSDC submitter	4674194	Contig	2019-02-12
+PDT000052411.5	GCA_004186395.1	Salmonella enterica		FLUFL-1441				From INSDC submitter	4765354	Contig	2019-02-12
+PDT000081669.4	GCA_004186435.1	Salmonella enterica		CFSAN034904				From INSDC submitter	4772658	Contig	2019-02-12
+PDT000139444.5	GCA_004186535.1	Salmonella enterica		CFSAN042356				From INSDC submitter	4843226	Contig	2019-02-12
+PDT000081698.4	GCA_004186555.1	Salmonella enterica		CFSAN034899				From INSDC submitter	4759054	Contig	2019-02-12
+PDT000139418.5	GCA_004186575.1	Salmonella enterica		CFSAN042330				From INSDC submitter	4846517	Contig	2019-02-12
+PDT000139481.5	GCA_004186585.1	Salmonella enterica		CFSAN042840				From INSDC submitter	4704945	Contig	2019-02-12
+PDT000087366.6	GCA_004186655.1	Salmonella enterica		FLUFL-1912				From INSDC submitter	5131919	Contig	2019-02-12
+PDT000123425.6	GCA_004186665.1	Salmonella enterica		FDA769152-1				From INSDC submitter	4715206	Contig	2019-02-12
+PDT000081720.4	GCA_004186715.1	Salmonella enterica		CFSAN034941				From INSDC submitter	4884102	Contig	2019-02-12
+PDT000159026.4	GCA_004186735.1	Salmonella enterica		FDA983017-001-001				From INSDC submitter	4686815	Contig	2019-02-12
+PDT000081671.4	GCA_004186755.1	Salmonella enterica		CFSAN034921				From INSDC submitter	4710193	Contig	2019-02-12
+PDT000185557.4	GCA_004186815.1	Salmonella enterica		NC-L0052				From INSDC submitter	4961647	Contig	2019-02-12
+PDT000085290.4	GCA_004186835.1	Salmonella enterica		FDA917942-5-67				From INSDC submitter	4564132	Contig	2019-02-12
+PDT000338392.1	GCA_004187345.1	Salmonella enterica		18FMEN000556				From INSDC submitter	4685078	Contig	2019-02-12
+PDT000338404.1	GCA_004187455.1	Salmonella enterica		MOD1_Per95				From INSDC submitter	5113589	Contig	2019-02-12
+PDT000041704.2	GCA_004190455.1	Salmonella enterica		CFSAN025228				From INSDC submitter	4698444	Contig	2019-02-12
+PDT000044408.2	GCA_004190965.1	Salmonella enterica		FLUFL-355				From INSDC submitter	4888840	Contig	2019-02-12
+PDT000041413.2	GCA_004191175.1	Salmonella enterica		FDA147849				From INSDC submitter	5047931	Contig	2019-02-12
+PDT000039668.2	GCA_004191255.1	Salmonella enterica		FLUFL-1393				From INSDC submitter	5121021	Contig	2019-02-12
+PDT000040899.2	GCA_004191305.1	Salmonella enterica		CFSAN025194				From INSDC submitter	4703012	Contig	2019-02-12
+PDT000341309.1	GCA_004191915.1	Salmonella enterica		FDA939189-2				From INSDC submitter	4851414	Contig	2019-02-12
+PDT000024573.2	GCA_004192495.1	Salmonella enterica		FL-MDD-374				From INSDC submitter	4738531	Contig	2019-02-12
+PDT000025207.2	GCA_004192515.1	Salmonella enterica		FSE0044				From INSDC submitter	4552087	Contig	2019-02-12
+PDT000034028.2	GCA_004192535.1	Salmonella enterica		MOD1_Sal_854				From INSDC submitter	4516604	Contig	2019-02-12
+PDT000035259.2	GCA_004192545.1	Salmonella enterica		FDA818315-C1 D				From INSDC submitter	4730227	Contig	2019-02-12
+PDT000034664.2	GCA_004192575.1	Salmonella enterica		MOD1_Sal_841				From INSDC submitter	5049920	Contig	2019-02-12
+PDT000034855.2	GCA_004192595.1	Salmonella enterica		FLUFL-739				From INSDC submitter	4749514	Contig	2019-02-12
+PDT000049175.2	GCA_004192635.1	Salmonella enterica		FDA889125-2-A				From INSDC submitter	4868875	Contig	2019-02-12
+PDT000034203.2	GCA_004193125.1	Salmonella enterica		FDA852810 1-B				From INSDC submitter	4893802	Contig	2019-02-12
+PDT000315718.1	GCA_004215715.1	Salmonella enterica		CFSAN080864				From INSDC submitter	4697468	Contig	2019-02-11
+PDT000326044.1	GCA_004215735.1	Salmonella enterica		CFSAN081811				From INSDC submitter	4764014	Contig	2019-02-12
+PDT000356653.1	GCA_004217745.1	Salmonella enterica		CFSAN084093				From INSDC submitter	5086170	Contig	2019-02-20
+PDT000393151.1	GCA_004217785.1	Salmonella enterica		BG07		CFSAN051348		From INSDC submitter	4686867	Contig	2019-02-20
+PDT000364436.1	GCA_004217805.1	Salmonella enterica		JWC-7145				From INSDC submitter	4991999	Contig	2019-02-20
+PDT000307103.2	GCA_004217825.1	Salmonella enterica		FDA1021172-S003-020				From INSDC submitter	4864299	Contig	2019-02-20
