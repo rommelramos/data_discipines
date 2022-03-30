@@ -1,0 +1,125 @@
+Assembly Name	Assembly Accession	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Isolate	Organism Infraspecific Names Ecotype	Annotation Name	Assembly Stats Total Sequence Length	Assembly Level	Assembly Submission Date
+ASM203528v1	GCF_002035285.1	Salmonella bongori		BCW_1556				From INSDC submitter	4417884	Contig	2017-03-17
+ASM203547v1	GCF_002035475.1	Salmonella bongori		BCW_1555				From INSDC submitter	4425408	Contig	2017-03-17
+ASM211936v1	GCF_002119365.1	Salmonella bongori		CATO-2016				From INSDC submitter	4572147	Contig	2017-05-08
+ASM605101v2	GCF_006051015.1	Salmonella bongori		92-0238				From INSDC submitter	4476215	Complete Genome	2020-05-27
+08-1209.filtered.fasta	GCF_006051555.1	Salmonella bongori		08-1209				From INSDC submitter	4650585	Scaffold	2020-07-28
+ASM611322v2	GCF_006113225.1	Salmonella bongori		85-0051				From INSDC submitter	4487548	Complete Genome	2020-05-27
+ASM701934v2	GCF_007019345.1	Salmonella bongori		2013K-0909				From INSDC submitter	4725819	Scaffold	2020-07-28
+ASM1665355v1	GCF_016653555.1	Salmonella bongori		Se40				From INSDC submitter	4459441	Complete Genome	2021-01-17
+ASM1935641v1	GCF_019356415.1	Salmonella bongori		04-0440				From INSDC submitter	4440439	Complete Genome	2021-07-27
+UHGG_MGYG-HGUT-02496	GCF_902387725.1	Salmonella bongori				MGYG-HGUT-02496		From INSDC submitter	4572147	Contig	2019-08-16
+ASM203528v1	GCA_002035285.1	Salmonella bongori		BCW_1556					4417884	Contig	2017-03-17
+ASM203547v1	GCA_002035475.1	Salmonella bongori		BCW_1555					4425408	Contig	2017-03-17
+ASM211936v1	GCA_002119365.1	Salmonella bongori		CATO-2016					4572147	Contig	2017-05-08
+ASM605101v2	GCA_006051015.2	Salmonella bongori		92-0238					4476215	Complete Genome	2020-05-27
+08-1209.filtered.fasta	GCA_006051555.2	Salmonella bongori		08-1209				From INSDC submitter	4650585	Scaffold	2020-07-28
+ASM611322v2	GCA_006113225.2	Salmonella bongori		85-0051					4487548	Complete Genome	2020-05-27
+PDT000509651.1	GCA_006517855.1	Salmonella bongori		PNUSAS076532				From INSDC submitter	4743993	Contig	2019-07-01
+PDT000509082.1	GCA_006517875.1	Salmonella bongori		PNUSAS075415				From INSDC submitter	4862925	Contig	2019-07-01
+PDT000509648.1	GCA_006517895.1	Salmonella bongori		PNUSAS076535				From INSDC submitter	4953147	Contig	2019-07-01
+PDT000509647.1	GCA_006517915.1	Salmonella bongori		PNUSAS076543				From INSDC submitter	4596731	Contig	2019-07-01
+PDT000509079.1	GCA_006517935.1	Salmonella bongori		PNUSAS075419				From INSDC submitter	4613689	Contig	2019-07-01
+PDT000509083.1	GCA_006517955.1	Salmonella bongori		PNUSAS075420				From INSDC submitter	4878770	Contig	2019-07-01
+PDT000509080.1	GCA_006517975.1	Salmonella bongori		PNUSAS075422				From INSDC submitter	4769343	Contig	2019-07-01
+PDT000509087.1	GCA_006517995.1	Salmonella bongori		PNUSAS075421				From INSDC submitter	4780459	Contig	2019-07-01
+PDT000509081.1	GCA_006518015.1	Salmonella bongori		PNUSAS075418				From INSDC submitter	4830806	Contig	2019-07-01
+PDT000509084.1	GCA_006518035.1	Salmonella bongori		PNUSAS075417				From INSDC submitter	5110692	Contig	2019-07-01
+PDT000509086.1	GCA_006518055.1	Salmonella bongori		PNUSAS075423				From INSDC submitter	4777291	Contig	2019-07-01
+PDT000509085.1	GCA_006518075.1	Salmonella bongori		PNUSAS075416				From INSDC submitter	4963722	Contig	2019-07-01
+PDT000509645.1	GCA_006518095.1	Salmonella bongori		PNUSAS076540				From INSDC submitter	5054088	Contig	2019-07-01
+PDT000509629.1	GCA_006518115.1	Salmonella bongori		PNUSAS076542				From INSDC submitter	4788903	Contig	2019-07-01
+PDT000509630.1	GCA_006518125.1	Salmonella bongori		PNUSAS076536				From INSDC submitter	4639300	Contig	2019-07-01
+PDT000509641.1	GCA_006518155.1	Salmonella bongori		PNUSAS076533				From INSDC submitter	4966029	Contig	2019-07-01
+PDT000509640.1	GCA_006518175.1	Salmonella bongori		PNUSAS076538				From INSDC submitter	4891028	Contig	2019-07-01
+ASM701934v2	GCA_007019345.2	Salmonella bongori		2013K-0909				From INSDC submitter	4725819	Scaffold	2020-07-28
+PDT000329011.1	GCA_007496825.1	Salmonella bongori		461999				From INSDC submitter	4820000	Contig	2019-07-26
+PDT000318725.1	GCA_007497745.1	Salmonella bongori		461984				From INSDC submitter	4631151	Contig	2019-07-26
+PDT000345216.1	GCA_007501425.1	Salmonella bongori		461994				From INSDC submitter	4398513	Contig	2019-07-26
+PDT000349677.1	GCA_007501705.1	Salmonella bongori		140234				From INSDC submitter	4751706	Contig	2019-07-26
+PDT000337950.1	GCA_007579005.1	Salmonella bongori		463971				From INSDC submitter	4560460	Contig	2019-07-29
+PDT000338130.1	GCA_007644995.1	Salmonella bongori		461982				From INSDC submitter	4677396	Contig	2019-07-30
+PDT000545563.1	GCA_007698165.1	Salmonella bongori		PNUSAS075356				From INSDC submitter	4664724	Contig	2019-07-30
+PDT000323723.1	GCA_007768505.1	Salmonella bongori		462008				From INSDC submitter	4581607	Contig	2019-07-31
+PDT000620072.1	GCA_009414505.1	Salmonella bongori		PNUSAS112173				From INSDC submitter	4618614	Contig	2019-10-30
+PDT000620078.1	GCA_009414685.1	Salmonella bongori		PNUSAS112172				From INSDC submitter	4668578	Contig	2019-10-30
+PDT000620075.1	GCA_009414705.1	Salmonella bongori		PNUSAS112179				From INSDC submitter	4589694	Contig	2019-10-30
+PDT000620081.1	GCA_009414765.1	Salmonella bongori		PNUSAS112180				From INSDC submitter	4648015	Contig	2019-10-30
+PDT000620080.1	GCA_009414925.1	Salmonella bongori		PNUSAS112174				From INSDC submitter	4690479	Contig	2019-10-30
+PDT000620076.1	GCA_009414965.1	Salmonella bongori		PNUSAS112178				From INSDC submitter	4632621	Contig	2019-10-30
+PDT000620062.1	GCA_009414985.1	Salmonella bongori		PNUSAS112176				From INSDC submitter	4665728	Contig	2019-10-30
+PDT000620061.1	GCA_009415005.1	Salmonella bongori		PNUSAS112177				From INSDC submitter	4656484	Contig	2019-10-30
+PDT000620066.1	GCA_009415105.1	Salmonella bongori		PNUSAS112181				From INSDC submitter	4668523	Contig	2019-10-30
+PDT000620077.1	GCA_009415165.1	Salmonella bongori		PNUSAS112184				From INSDC submitter	4679634	Contig	2019-10-30
+PDT000620083.1	GCA_009415245.1	Salmonella bongori		PNUSAS112182				From INSDC submitter	4694463	Contig	2019-10-30
+PDT000620085.1	GCA_009415255.1	Salmonella bongori		PNUSAS112183				From INSDC submitter	4644779	Contig	2019-10-30
+PDT000620086.1	GCA_009415305.1	Salmonella bongori		PNUSAS112186				From INSDC submitter	4681781	Contig	2019-10-30
+PDT000620084.1	GCA_009415325.1	Salmonella bongori		PNUSAS112175				From INSDC submitter	4659043	Contig	2019-10-30
+PDT000620087.1	GCA_009415345.1	Salmonella bongori		PNUSAS112185				From INSDC submitter	4655163	Contig	2019-10-30
+PDT000606327.1	GCA_009621955.1	Salmonella bongori				Salmonella bongori		From INSDC submitter	4650131	Contig	2019-11-08
+PDT000641946.1	GCA_010367725.1	Salmonella bongori		648570				From INSDC submitter	4405781	Contig	2020-02-10
+PDT000641940.1	GCA_010367765.1	Salmonella bongori		461983				From INSDC submitter	4679012	Contig	2020-02-10
+PDT000067880.3	GCA_010367845.1	Salmonella bongori		54049				From INSDC submitter	4602604	Contig	2020-02-10
+PDT000641947.1	GCA_010367885.1	Salmonella bongori		543943				From INSDC submitter	4401305	Contig	2020-02-10
+PDT000311541.2	GCA_010367945.1	Salmonella bongori		416185				From INSDC submitter	4618221	Contig	2020-02-10
+PDT000641941.1	GCA_010368025.1	Salmonella bongori		608514				From INSDC submitter	4561659	Contig	2020-02-10
+PDT000641939.1	GCA_010368085.1	Salmonella bongori		267043				From INSDC submitter	4399591	Contig	2020-02-10
+PDT000648319.1	GCA_010368225.1	Salmonella bongori		854884				From INSDC submitter	4585969	Contig	2020-02-10
+PDT000060599.2	GCA_010368345.1	Salmonella bongori		72285				From INSDC submitter	4380405	Contig	2020-02-10
+PDT000648330.1	GCA_010368385.1	Salmonella bongori		854886				From INSDC submitter	4754322	Contig	2020-02-10
+PDT000648348.1	GCA_010368425.1	Salmonella bongori		854887				From INSDC submitter	4412486	Contig	2020-02-10
+PDT000562714.1	GCA_010368465.1	Salmonella bongori		PNUSAS088562				From INSDC submitter	4553908	Contig	2020-02-10
+PDT000648345.1	GCA_010368585.1	Salmonella bongori		854885				From INSDC submitter	4615976	Contig	2020-02-10
+PDT000650053.1	GCA_010368665.1	Salmonella bongori		854888				From INSDC submitter	4620176	Contig	2020-02-10
+PDT000641945.1	GCA_010368685.1	Salmonella bongori		648612				From INSDC submitter	4612565	Contig	2020-02-10
+PDT000060612.2	GCA_010368965.1	Salmonella bongori		80330				From INSDC submitter	4401895	Contig	2020-02-10
+PDT000689237.1	GCA_011698755.1	Salmonella bongori		890426				From INSDC submitter	5064054	Contig	2020-03-24
+PDT000689218.1	GCA_011994785.1	Salmonella bongori		890442				From INSDC submitter	4611377	Contig	2020-04-03
+PDT000731945.1	GCA_013020545.1	Salmonella bongori		PNUSAS127492				From INSDC submitter	4770413	Contig	2020-05-11
+PDT000731940.1	GCA_013131715.1	Salmonella bongori		PNUSAS127493				From INSDC submitter	4894972	Contig	2020-05-20
+ASM1665355v1	GCA_016653555.1	Salmonella bongori		Se40				From INSDC submitter	4459441	Complete Genome	2021-01-17
+PDT001016459.1	GCA_018215715.1	Salmonella bongori		1163721				From INSDC submitter	4567099	Contig	2021-04-30
+PDT001092566.1	GCA_019291725.1	Salmonella bongori		PNUSAS213466				From INSDC submitter	4999337	Contig	2021-07-20
+ASM1935641v1	GCA_019356415.1	Salmonella bongori		04-0440				From INSDC submitter	4440439	Complete Genome	2021-07-27
+PDT001166407.1	GCA_020702915.1	Salmonella bongori		PNUSAS240763				From INSDC submitter	4670019	Contig	2021-11-01
+PDT001225040.1	GCA_021506475.1	Salmonella bongori		1561170				From INSDC submitter	4499011	Contig	2022-01-19
+PDT001229577.1	GCA_021567055.1	Salmonella bongori		642294				From INSDC submitter	4670408	Contig	2022-01-24
+UHGG_MGYG-HGUT-02496	GCA_902387725.1	Salmonella bongori				MGYG-HGUT-02496			4572147	Contig	2019-08-16
+PDT000230026.2	GCA_015857505.1	Salmonella bongori CFSAN000509		SGSC 3103				From INSDC submitter	4351393	Contig	2020-12-08
+ASM964877v1	GCF_009648775.1	Salmonella bongori CFSAN000510		CFSAN000510				From INSDC submitter	4459434	Complete Genome	2019-11-11
+ASM1833873v1	GCF_018338735.1	Salmonella bongori CFSAN000510		SGSC 3100				From INSDC submitter	4459473	Complete Genome	2021-05-11
+ASM964877v1	GCA_009648775.1	Salmonella bongori CFSAN000510		CFSAN000510				From INSDC submitter	4459434	Complete Genome	2019-11-11
+ASM1833873v1	GCA_018338735.1	Salmonella bongori CFSAN000510		SGSC 3100				From INSDC submitter	4459473	Complete Genome	2021-05-11
+ASM43925v1	GCF_000439255.1	Salmonella bongori N268-08		N268-08				From INSDC submitter	4773537	Complete Genome	2013-07-23
+ASM43925v1	GCA_000439255.1	Salmonella bongori N268-08		N268-08				From INSDC submitter	4773537	Complete Genome	2013-07-23
+ASM25299v1	GCF_000252995.1	Salmonella bongori NCTC 12419		NCTC 12419				From INSDC submitter	4460105	Complete Genome	2011-07-06
+ASM25299v1	GCA_000252995.1	Salmonella bongori NCTC 12419		NCTC 12419				From INSDC submitter	4460105	Complete Genome	2011-07-06
+ASM1433842v3	GCF_014338425.1	Salmonella bongori serovar 40:z35:-		CFSAN001045				From INSDC submitter	4513187	Complete Genome	2021-05-21
+ASM1433842v3	GCA_014338425.3	Salmonella bongori serovar 40:z35:-		CFSAN001045				From INSDC submitter	4513187	Complete Genome	2021-05-21
+PDT000162943.3	GCA_014431485.1	Salmonella bongori serovar 40:z35:- str. 95-0123		95-0123				From INSDC submitter	4440339	Contig	2020-09-02
+PDT000002290.3	GCA_010124885.1	Salmonella bongori serovar 44:r:-		2702-77				From INSDC submitter	4342786	Contig	2020-02-04
+ASM203762v1	GCF_002037625.1	Salmonella bongori serovar 44:z39:-		BCW_1554				From INSDC submitter	4315393	Contig	2017-03-17
+ASM203762v1	GCA_002037625.1	Salmonella bongori serovar 44:z39:-		BCW_1554					4315393	Contig	2017-03-17
+ASM203376v1	GCF_002033765.1	Salmonella bongori serovar 48:a:-		1308-83				From INSDC submitter	4536861	Contig	2017-03-17
+ASM203376v1	GCA_002033765.1	Salmonella bongori serovar 48:a:-		1308-83					4536861	Contig	2017-03-17
+ASM203531v1	GCF_002035315.1	Salmonella bongori serovar 48:i:-		BCW_1552				From INSDC submitter	4434479	Contig	2017-03-17
+ASM203531v1	GCA_002035315.1	Salmonella bongori serovar 48:i:-		BCW_1552					4434479	Contig	2017-03-17
+PDT000430236.1	GCA_007694255.1	Salmonella bongori serovar 48:i:-		AG18-0064				From INSDC submitter	4640701	Contig	2019-07-30
+PDT000162942.3	GCA_014431525.1	Salmonella bongori serovar 48:i:- str. 94-0708		94-0708				From INSDC submitter	4416401	Contig	2020-09-02
+ASM203526v1	GCF_002035265.1	Salmonella bongori serovar 48:z35:-		BCW_1557				From INSDC submitter	4444858	Contig	2017-03-17
+ASM614913v1	GCF_006149135.1	Salmonella bongori serovar 48:z35:-		N19-0781				From INSDC submitter	4519152	Scaffold	2019-06-07
+ASM203526v1	GCA_002035265.1	Salmonella bongori serovar 48:z35:-		BCW_1557					4444858	Contig	2017-03-17
+ASM614913v1	GCA_006149135.1	Salmonella bongori serovar 48:z35:-		N19-0781				From INSDC submitter	4519152	Scaffold	2019-06-07
+ASM70953v1	GCF_000709535.1	Salmonella bongori serovar 48:z41:-- str. RKS3044		RKS3044				From INSDC submitter	4394500	Complete Genome	2014-06-17
+ASM70953v1	GCA_000709535.1	Salmonella bongori serovar 48:z41:-- str. RKS3044		RKS3044				From INSDC submitter	4394500	Complete Genome	2014-06-17
+ASM848564v2	GCF_008485645.1	Salmonella bongori serovar 48:z81:-		2014K-0331				From INSDC submitter	4656123	Scaffold	2020-07-28
+ASM1313814v1	GCF_013138145.1	Salmonella bongori serovar 48:z81:-		08-0158				From INSDC submitter	4495420	Complete Genome	2020-05-21
+ASM1369360v1	GCF_013693605.1	Salmonella bongori serovar 48:z81:-		2014K-0377				From INSDC submitter	4737500	Scaffold	2020-07-24
+ASM848564v2	GCA_008485645.2	Salmonella bongori serovar 48:z81:-		2014K-0331				From INSDC submitter	4656123	Scaffold	2020-07-28
+ASM1313814v1	GCA_013138145.1	Salmonella bongori serovar 48:z81:-		08-0158					4495420	Complete Genome	2020-05-21
+ASM1369360v1	GCA_013693605.1	Salmonella bongori serovar 48:z81:-		2014K-0377				From INSDC submitter	4737500	Scaffold	2020-07-24
+ASM1369359v1	GCF_013693595.1	Salmonella bongori serovar 66:z39:-		92-0014				From INSDC submitter	4406389	Scaffold	2020-07-24
+ASM1369359v1	GCA_013693595.1	Salmonella bongori serovar 66:z39:-		92-0014				From INSDC submitter	4406389	Scaffold	2020-07-24
+ASM221192v1	GCF_002211925.1	Salmonella bongori serovar 66:z41:- str. SA19983605		SA19983605				From INSDC submitter	4468959	Complete Genome	2017-06-30
+ASM221192v1	GCA_002211925.1	Salmonella bongori serovar 66:z41:- str. SA19983605		SA19983605				From INSDC submitter	4468959	Complete Genome	2017-06-30
+PDT000002287.3	GCA_010124505.1	Salmonella bongori serovar 66:z65:-		327-80				From INSDC submitter	4752256	Contig	2020-02-04
